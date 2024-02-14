@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\bin\Debug\strukturi-struct.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\bin\Debug\strukturi-struct.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\bin\Debug\strukturi-struct.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\obj\Debug\strukturi-struct.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\obj\Debug\strukturi-struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\obj\Debug\strukturi-struct.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\obj\Debug\strukturi-struct.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\strukturi-struct\strukturi-struct\obj\Debug\strukturi-struct.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\bin\Debug\strukturi-struct.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\bin\Debug\strukturi-struct.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\bin\Debug\strukturi-struct.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\obj\Debug\strukturi-struct.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\obj\Debug\strukturi-struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\obj\Debug\strukturi-struct.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\obj\Debug\strukturi-struct.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.Struct-All\4.strukturi-struct-fromClass\strukturi-struct\obj\Debug\strukturi-struct.pdb

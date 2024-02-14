@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7.Panika___drzaven_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7.Panika___drzaven_2021.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\bin\Debug\M7.Panika___drzaven_2021.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7. Panika - drzaven 2021.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7.Panika___drzaven_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M7. Panika - drzaven 2021\M7. Panika - drzaven 2021\obj\Debug\M7.Panika___drzaven_2021.pdb

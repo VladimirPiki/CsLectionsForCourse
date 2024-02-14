@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\bin\Debug\Z20.BrojFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\bin\Debug\Z20.BrojFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\bin\Debug\Z20.BrojFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\obj\Debug\Z20. BrojFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\obj\Debug\Z20. BrojFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\obj\Debug\Z20. BrojFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\obj\Debug\Z20.BrojFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z20. BrojFibonaci\Z20. BrojFibonaci\obj\Debug\Z20.BrojFibonaci.pdb

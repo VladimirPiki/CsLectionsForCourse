@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\bin\Debug\proveri-dali-rastecki-string.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\bin\Debug\proveri-dali-rastecki-string.exe
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\bin\Debug\proveri-dali-rastecki-string.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\obj\Debug\proveri-dali-rastecki-string.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\obj\Debug\proveri-dali-rastecki-string.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\obj\Debug\proveri-dali-rastecki-string.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\obj\Debug\proveri-dali-rastecki-string.exe
+C:\Users\Vladimir Piki\mikrosamProekti\proveri-dali-rastecki-string\proveri-dali-rastecki-string\obj\Debug\proveri-dali-rastecki-string.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\bin\Debug\NameSpace.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\bin\Debug\NameSpace.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\bin\Debug\NameSpace.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\obj\Debug\NameSpace.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\obj\Debug\NameSpace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\obj\Debug\NameSpace.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\NameSpace\NameSpace\obj\Debug\NameSpace.pdb

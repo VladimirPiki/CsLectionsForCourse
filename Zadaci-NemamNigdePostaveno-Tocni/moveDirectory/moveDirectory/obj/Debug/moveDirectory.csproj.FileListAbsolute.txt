@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\bin\Debug\moveDirectory.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\bin\Debug\moveDirectory.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\bin\Debug\moveDirectory.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\obj\Debug\moveDirectory.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\obj\Debug\moveDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\obj\Debug\moveDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\obj\Debug\moveDirectory.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\moveDirectory\moveDirectory\obj\Debug\moveDirectory.pdb

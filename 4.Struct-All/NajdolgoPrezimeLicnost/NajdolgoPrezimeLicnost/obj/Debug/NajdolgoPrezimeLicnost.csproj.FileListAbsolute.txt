@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\bin\Debug\NajdolgoPrezimeLicnost.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\bin\Debug\NajdolgoPrezimeLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\bin\Debug\NajdolgoPrezimeLicnost.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\obj\Debug\NajdolgoPrezimeLicnost.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\obj\Debug\NajdolgoPrezimeLicnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\obj\Debug\NajdolgoPrezimeLicnost.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\obj\Debug\NajdolgoPrezimeLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\NajdolgoPrezimeLicnost\NajdolgoPrezimeLicnost\obj\Debug\NajdolgoPrezimeLicnost.pdb

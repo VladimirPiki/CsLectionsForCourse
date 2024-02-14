@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\bin\Debug\Т5.Samoglaski.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\bin\Debug\Т5.Samoglaski.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\bin\Debug\Т5.Samoglaski.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\obj\Debug\Т5. Samoglaski.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\obj\Debug\Т5. Samoglaski.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\obj\Debug\Т5. Samoglaski.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\obj\Debug\Т5.Samoglaski.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т5. Samoglaski\Т5. Samoglaski\obj\Debug\Т5.Samoglaski.pdb

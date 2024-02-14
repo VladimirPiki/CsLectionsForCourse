@@ -1,0 +1,22 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\bin\Debug\Chart Control.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\bin\Debug\Chart Control.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\bin\Debug\Chart Control.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart_Control.Form1.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart_Control.Properties.Resources.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.GenerateResource.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Chart Control\Chart Control\obj\Debug\Chart Control.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\bin\Debug\Chart Control.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\bin\Debug\Chart Control.exe
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\bin\Debug\Chart Control.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart_Control.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart_Control.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.exe
+C:\Users\Vladimir Piki\mikrosamProekti\19.Chart Control\Chart Control\Chart Control\obj\Debug\Chart Control.pdb

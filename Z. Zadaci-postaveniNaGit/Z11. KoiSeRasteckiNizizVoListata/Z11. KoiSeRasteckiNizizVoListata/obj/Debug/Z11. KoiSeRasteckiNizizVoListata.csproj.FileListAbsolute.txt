@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\bin\Debug\Z11.KoiSeRasteckiNizizVoListata.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\bin\Debug\Z11.KoiSeRasteckiNizizVoListata.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\bin\Debug\Z11.KoiSeRasteckiNizizVoListata.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\obj\Debug\Z11. KoiSeRasteckiNizizVoListata.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\obj\Debug\Z11. KoiSeRasteckiNizizVoListata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\obj\Debug\Z11. KoiSeRasteckiNizizVoListata.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\obj\Debug\Z11.KoiSeRasteckiNizizVoListata.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z11. KoiSeRasteckiNizizVoListata\Z11. KoiSeRasteckiNizizVoListata\obj\Debug\Z11.KoiSeRasteckiNizizVoListata.pdb

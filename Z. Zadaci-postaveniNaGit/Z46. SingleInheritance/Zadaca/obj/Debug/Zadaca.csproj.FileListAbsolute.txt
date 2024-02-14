@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\bin\Debug\Zadaca.exe
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\bin\Debug\Zadaca.pdb
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\obj\Debug\Zadaca.exe
+C:\Users\User\Desktop\Vladimir\Cas\Zadaca\Zadaca\obj\Debug\Zadaca.pdb
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\bin\Debug\Zadaca.exe
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\bin\Debug\Zadaca.pdb
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\obj\Debug\Zadaca.exe
+C:\Users\User\Desktop\Vladimir\mikrosamProekti\15.Inheritance\Zadaca\Zadaca\obj\Debug\Zadaca.pdb

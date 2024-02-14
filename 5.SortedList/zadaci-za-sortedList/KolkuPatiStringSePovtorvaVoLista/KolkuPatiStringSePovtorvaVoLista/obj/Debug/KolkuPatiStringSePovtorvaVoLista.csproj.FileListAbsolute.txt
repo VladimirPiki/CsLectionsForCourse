@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\bin\Debug\KolkuPatiStringSePovtorvaVoLista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\bin\Debug\KolkuPatiStringSePovtorvaVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\bin\Debug\KolkuPatiStringSePovtorvaVoLista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\obj\Debug\KolkuPatiStringSePovtorvaVoLista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\obj\Debug\KolkuPatiStringSePovtorvaVoLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\obj\Debug\KolkuPatiStringSePovtorvaVoLista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\obj\Debug\KolkuPatiStringSePovtorvaVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\zadaci-za-sortedList\KolkuPatiStringSePovtorvaVoLista\KolkuPatiStringSePovtorvaVoLista\obj\Debug\KolkuPatiStringSePovtorvaVoLista.pdb

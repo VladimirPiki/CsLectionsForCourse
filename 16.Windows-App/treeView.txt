@@ -1,0 +1,16 @@
+celata mi e organizacija na podatocite. Kontorola koja ja imate vo tools -? treeview. Na pocetok beginupdate a na krajo endupdate.
+edna list so 10 iminja, grupirajte 2 3 iminja da pocnat so ist karakter da prikazite so tree view. Imate lista prefrelete vo sortirana pocetna bukva  iminja na ova bukva vo klucot imate prvi iminja
+
+
+//Od listview
+//brisi selektirana od ekplorer go obelezuvam go brisam
+klik na dadodteka i lokacija kaj so sakas
+//tekst box
+
+//duplikati vo drug listview
+
+//klikanje da premesti
+
+mozis i vo eden listview da gledas so premestvas
+
+https://stackoverflow.com/questions/16315042/how-to-display-directories-in-a-treeview   za treeview

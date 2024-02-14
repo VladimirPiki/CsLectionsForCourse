@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\bin\Debug\M22.Banani_I_jabolka.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\bin\Debug\M22.Banani_I_jabolka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\bin\Debug\M22.Banani_I_jabolka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\obj\Debug\M22. Banani I jabolka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\obj\Debug\M22. Banani I jabolka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\obj\Debug\M22. Banani I jabolka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\obj\Debug\M22.Banani_I_jabolka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M22. Banani I jabolka\M22. Banani I jabolka\obj\Debug\M22.Banani_I_jabolka.pdb

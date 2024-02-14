@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\bin\Debug\Z51.Digtron.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\bin\Debug\Z51.Digtron.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\bin\Debug\Z51.Digtron.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z51.Digtron\Z51.Digtron\obj\Debug\Z51.Digtron.pdb

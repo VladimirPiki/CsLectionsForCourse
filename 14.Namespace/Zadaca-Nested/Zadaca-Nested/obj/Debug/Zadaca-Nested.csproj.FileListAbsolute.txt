@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\bin\Debug\Zadaca-Nested.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\bin\Debug\Zadaca-Nested.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\bin\Debug\Zadaca-Nested.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\obj\Debug\Zadaca-Nested.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\obj\Debug\Zadaca-Nested.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\obj\Debug\Zadaca-Nested.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\obj\Debug\Zadaca-Nested.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-Nested\Zadaca-Nested\obj\Debug\Zadaca-Nested.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\bin\Debug\Z23.BrojNaParniBroeviVoLista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\bin\Debug\Z23.BrojNaParniBroeviVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\bin\Debug\Z23.BrojNaParniBroeviVoLista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\obj\Debug\Z23. BrojNaParniBroeviVoLista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\obj\Debug\Z23. BrojNaParniBroeviVoLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\obj\Debug\Z23. BrojNaParniBroeviVoLista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\obj\Debug\Z23.BrojNaParniBroeviVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z23. BrojNaParniBroeviVoLista\Z23. BrojNaParniBroeviVoLista\obj\Debug\Z23.BrojNaParniBroeviVoLista.pdb

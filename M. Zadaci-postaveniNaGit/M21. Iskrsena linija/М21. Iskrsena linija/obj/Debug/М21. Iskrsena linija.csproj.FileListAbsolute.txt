@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21.Iskrsena_linija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\М21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21.Iskrsena_linija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\bin\Debug\М21.Iskrsena_linija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21. Iskrsena linija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21.Iskrsena_linija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M21. Iskrsena linija\М21. Iskrsena linija\obj\Debug\М21.Iskrsena_linija.pdb

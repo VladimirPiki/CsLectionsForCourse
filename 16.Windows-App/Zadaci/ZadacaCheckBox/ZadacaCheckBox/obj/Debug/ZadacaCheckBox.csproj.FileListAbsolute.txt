@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\bin\Debug\ZadacaCheckBox.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\bin\Debug\ZadacaCheckBox.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\bin\Debug\ZadacaCheckBox.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaCheckBox\ZadacaCheckBox\obj\Debug\ZadacaCheckBox.pdb

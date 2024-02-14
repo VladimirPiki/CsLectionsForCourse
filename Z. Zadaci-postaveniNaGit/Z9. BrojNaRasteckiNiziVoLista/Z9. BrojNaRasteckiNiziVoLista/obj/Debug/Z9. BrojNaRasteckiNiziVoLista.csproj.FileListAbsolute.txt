@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\bin\Debug\Z9.BrojNaRasteckiNiziVoLista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\bin\Debug\Z9.BrojNaRasteckiNiziVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\bin\Debug\Z9.BrojNaRasteckiNiziVoLista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\obj\Debug\Z9. BrojNaRasteckiNiziVoLista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\obj\Debug\Z9. BrojNaRasteckiNiziVoLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\obj\Debug\Z9. BrojNaRasteckiNiziVoLista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\obj\Debug\Z9.BrojNaRasteckiNiziVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\P.Zadaci\Z9. BrojNaRasteckiNiziVoLista\Z9. BrojNaRasteckiNiziVoLista\obj\Debug\Z9.BrojNaRasteckiNiziVoLista.pdb

@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\SubstringFindAndReplace\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\bin\Debug\SubstringFindAndReplace.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.String\ZamenuvaPodstring\SubstringFindAndReplace\obj\Debug\SubstringFindAndReplace.pdb

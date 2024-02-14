@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\bin\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\bin\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\bin\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\obj\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\obj\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\obj\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\obj\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista\obj\Debug\Z10.BrNaRasteckiBrNaOpagjackiNiziVoLista.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\bin\Debug\5.cas-19.06.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\bin\Debug\5.cas-19.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\bin\Debug\5.cas-19.06.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\obj\Debug\5.cas-19.06.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\obj\Debug\5.cas-19.06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\obj\Debug\5.cas-19.06.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\obj\Debug\5.cas-19.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.cas-19.06\5.cas-19.06\5.cas-19.06\obj\Debug\5.cas-19.06.pdb

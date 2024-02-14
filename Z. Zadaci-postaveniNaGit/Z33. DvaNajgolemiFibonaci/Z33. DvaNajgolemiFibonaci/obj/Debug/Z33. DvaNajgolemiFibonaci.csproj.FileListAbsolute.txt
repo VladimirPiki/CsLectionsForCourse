@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\bin\Debug\Z33.DvaNajgolemiFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\bin\Debug\Z33.DvaNajgolemiFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\bin\Debug\Z33.DvaNajgolemiFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\obj\Debug\Z33. DvaNajgolemiFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\obj\Debug\Z33. DvaNajgolemiFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\obj\Debug\Z33. DvaNajgolemiFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\obj\Debug\Z33.DvaNajgolemiFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z33. DvaNajgolemiFibonaci\Z33. DvaNajgolemiFibonaci\obj\Debug\Z33.DvaNajgolemiFibonaci.pdb

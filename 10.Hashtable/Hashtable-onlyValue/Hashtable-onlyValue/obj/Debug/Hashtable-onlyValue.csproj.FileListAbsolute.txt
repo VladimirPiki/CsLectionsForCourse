@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\bin\Debug\Hashtable-onlyValue.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\bin\Debug\Hashtable-onlyValue.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\bin\Debug\Hashtable-onlyValue.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\obj\Debug\Hashtable-onlyValue.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\obj\Debug\Hashtable-onlyValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\obj\Debug\Hashtable-onlyValue.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\obj\Debug\Hashtable-onlyValue.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-onlyValue\Hashtable-onlyValue\obj\Debug\Hashtable-onlyValue.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\bin\Debug\M34.Bulevar.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\bin\Debug\M34.Bulevar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\bin\Debug\M34.Bulevar.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\obj\Debug\M34. Bulevar.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\obj\Debug\M34. Bulevar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\obj\Debug\M34. Bulevar.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\obj\Debug\M34.Bulevar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M34. Bulevar\M34. Bulevar\obj\Debug\M34.Bulevar.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M13. Jabolkite na Marko", "M13. Jabolkite na Marko\M13. Jabolkite na Marko.csproj", "{797F2C2B-5C41-49E8-9E8E-72A2D9476986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797F2C2B-5C41-49E8-9E8E-72A2D9476986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797F2C2B-5C41-49E8-9E8E-72A2D9476986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797F2C2B-5C41-49E8-9E8E-72A2D9476986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797F2C2B-5C41-49E8-9E8E-72A2D9476986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {550FA861-60AE-4F6D-98B5-397E95E371B1}
+	EndGlobalSection
+EndGlobal

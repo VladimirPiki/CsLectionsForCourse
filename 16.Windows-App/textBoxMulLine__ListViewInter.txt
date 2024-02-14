@@ -1,0 +1,8 @@
+kako sakame vo text box belezime multiline-true, tekst vo povekje linii vo tekst boksot
+
+listView-ovozvmozuva definiranje na tabela, mozite da postavite koloni
+definirame edna niza od string
+Obj ListViewItemm ja inizijalizirame listata od ilist vie itaemm ja dodeluvamena nizata od string
+Podatocite od tekst boxovite preminuvaat vo listview
+
+so eden button podatoci da naprajme

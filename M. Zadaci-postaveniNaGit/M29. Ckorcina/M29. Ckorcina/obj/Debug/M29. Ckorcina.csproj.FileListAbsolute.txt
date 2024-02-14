@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29.Ckorcina.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29.Ckorcina.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\bin\Debug\M29.Ckorcina.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29. Ckorcina.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29.Ckorcina.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\M29. Ckorcina\M29. Ckorcina\obj\Debug\M29.Ckorcina.pdb

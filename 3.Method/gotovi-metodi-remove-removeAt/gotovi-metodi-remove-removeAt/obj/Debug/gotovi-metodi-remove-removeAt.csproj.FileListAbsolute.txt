@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\bin\Debug\gotovi-metodi-remove-removeAt.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\bin\Debug\gotovi-metodi-remove-removeAt.exe
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\bin\Debug\gotovi-metodi-remove-removeAt.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\obj\Debug\gotovi-metodi-remove-removeAt.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\obj\Debug\gotovi-metodi-remove-removeAt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\obj\Debug\gotovi-metodi-remove-removeAt.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\obj\Debug\gotovi-metodi-remove-removeAt.exe
+C:\Users\Vladimir Piki\mikrosamProekti\metodi\gotovi-metodi-remove-removeAt\gotovi-metodi-remove-removeAt\obj\Debug\gotovi-metodi-remove-removeAt.pdb

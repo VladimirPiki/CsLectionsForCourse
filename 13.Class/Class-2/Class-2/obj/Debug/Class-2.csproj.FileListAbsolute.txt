@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\obj\Debug\Class-2.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\obj\Debug\Class-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\obj\Debug\Class-2.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\bin\Debug\Class-2.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\bin\Debug\Class-2.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\bin\Debug\Class-2.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\obj\Debug\Class-2.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-2\Class-2\obj\Debug\Class-2.pdb

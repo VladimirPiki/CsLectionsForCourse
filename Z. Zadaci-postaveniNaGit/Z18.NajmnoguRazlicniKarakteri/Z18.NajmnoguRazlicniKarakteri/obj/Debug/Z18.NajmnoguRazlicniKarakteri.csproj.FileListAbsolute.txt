@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\bin\Debug\Z18.NajmnoguRazlicniKarakteri.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\bin\Debug\Z18.NajmnoguRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\bin\Debug\Z18.NajmnoguRazlicniKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\obj\Debug\Z18.NajmnoguRazlicniKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\obj\Debug\Z18.NajmnoguRazlicniKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\obj\Debug\Z18.NajmnoguRazlicniKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\obj\Debug\Z18.NajmnoguRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z18.NajmnoguRazlicniKarakteri\Z18.NajmnoguRazlicniKarakteri\obj\Debug\Z18.NajmnoguRazlicniKarakteri.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\bin\Debug\Z34.ZborPovtoruvanjaDatoteka.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\bin\Debug\Z34.ZborPovtoruvanjaDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\bin\Debug\Z34.ZborPovtoruvanjaDatoteka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\obj\Debug\Z34. ZborPovtoruvanjaDatoteka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\obj\Debug\Z34. ZborPovtoruvanjaDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\obj\Debug\Z34. ZborPovtoruvanjaDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\obj\Debug\Z34.ZborPovtoruvanjaDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z34. ZborPovtoruvanjaDatoteka\Z34. ZborPovtoruvanjaDatoteka\obj\Debug\Z34.ZborPovtoruvanjaDatoteka.pdb

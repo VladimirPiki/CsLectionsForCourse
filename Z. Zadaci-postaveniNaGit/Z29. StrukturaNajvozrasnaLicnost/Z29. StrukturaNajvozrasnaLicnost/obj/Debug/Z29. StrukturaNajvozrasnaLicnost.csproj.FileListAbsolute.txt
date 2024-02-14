@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29.StrukturaNajvozrasnaLicnost.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29.StrukturaNajvozrasnaLicnost.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\bin\Debug\Z29.StrukturaNajvozrasnaLicnost.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29. StrukturaNajvozrasnaLicnost.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29.StrukturaNajvozrasnaLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z29. StrukturaNajvozrasnaLicnost\Z29. StrukturaNajvozrasnaLicnost\obj\Debug\Z29.StrukturaNajvozrasnaLicnost.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\bin\Debug\Z53.RBSoberiOdzemiMnozi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\bin\Debug\Z53.RBSoberiOdzemiMnozi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\bin\Debug\Z53.RBSoberiOdzemiMnozi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53. RBSoberiOdzemiMnozi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53. RBSoberiOdzemiMnozi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53.RBSoberiOdzemiMnozi.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53.RBSoberiOdzemiMnozi.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53. RBSoberiOdzemiMnozi.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53. RBSoberiOdzemiMnozi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53.RBSoberiOdzemiMnozi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z53. RBSoberiOdzemiMnozi\Z53. RBSoberiOdzemiMnozi\obj\Debug\Z53.RBSoberiOdzemiMnozi.pdb

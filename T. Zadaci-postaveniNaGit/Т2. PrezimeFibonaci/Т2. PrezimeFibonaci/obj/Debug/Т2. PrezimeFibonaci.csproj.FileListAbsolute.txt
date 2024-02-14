@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2.PrezimeFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2.PrezimeFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\bin\Debug\Т2.PrezimeFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2. PrezimeFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2.PrezimeFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т2. PrezimeFibonaci\Т2. PrezimeFibonaci\obj\Debug\Т2.PrezimeFibonaci.pdb

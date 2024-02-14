@@ -1,0 +1,51 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalDialog.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalMeil.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Z76.SQLiteClientOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalDialog.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.ModalMeil.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76.SQLiteClientOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\obj\Debug\Z76. SQLiteClientOneToMany.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteClientOneToMany\Z76. SQLiteClientOneToMany\bin\Debug\System.IO.Packaging.xml

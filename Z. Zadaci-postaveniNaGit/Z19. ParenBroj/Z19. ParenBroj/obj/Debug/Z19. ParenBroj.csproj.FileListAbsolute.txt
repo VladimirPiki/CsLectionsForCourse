@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19.ParenBroj.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19.ParenBroj.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\bin\Debug\Z19.ParenBroj.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19. ParenBroj.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19.ParenBroj.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19. ParenBroj\Z19. ParenBroj\obj\Debug\Z19.ParenBroj.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\bin\Debug\metoda-najdolgString.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\bin\Debug\metoda-najdolgString.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\bin\Debug\metoda-najdolgString.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\obj\Debug\metoda-najdolgString.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\obj\Debug\metoda-najdolgString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\obj\Debug\metoda-najdolgString.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\obj\Debug\metoda-najdolgString.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-najdolgString\metoda-najdolgString\obj\Debug\metoda-najdolgString.pdb

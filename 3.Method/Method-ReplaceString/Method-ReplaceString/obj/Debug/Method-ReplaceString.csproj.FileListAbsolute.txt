@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\bin\Debug\Method-ReplaceString.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\bin\Debug\Method-ReplaceString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\bin\Debug\Method-ReplaceString.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\obj\Debug\Method-ReplaceString.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\obj\Debug\Method-ReplaceString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\obj\Debug\Method-ReplaceString.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\obj\Debug\Method-ReplaceString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\3.Method\Method-ReplaceString\Method-ReplaceString\obj\Debug\Method-ReplaceString.pdb

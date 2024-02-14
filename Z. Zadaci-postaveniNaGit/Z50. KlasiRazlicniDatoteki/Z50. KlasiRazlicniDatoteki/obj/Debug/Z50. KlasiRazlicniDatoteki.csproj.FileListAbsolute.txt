@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.exe.config
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.pdb
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50.KlasiRazlicniDatoteki.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50.KlasiRazlicniDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\bin\Debug\Z50.KlasiRazlicniDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50. KlasiRazlicniDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50.KlasiRazlicniDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z50. KlasiRazlicniDatoteki\Z50. KlasiRazlicniDatoteki\obj\Debug\Z50.KlasiRazlicniDatoteki.pdb

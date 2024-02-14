@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMeil", "SendMeil\SendMeil.csproj", "{98D53E9F-E6F7-424E-BDE6-6E9A99A2EC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D53E9F-E6F7-424E-BDE6-6E9A99A2EC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D53E9F-E6F7-424E-BDE6-6E9A99A2EC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D53E9F-E6F7-424E-BDE6-6E9A99A2EC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D53E9F-E6F7-424E-BDE6-6E9A99A2EC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7049DC-A923-4CAA-A30D-1EB42F3366D0}
+	EndGlobalSection
+EndGlobal

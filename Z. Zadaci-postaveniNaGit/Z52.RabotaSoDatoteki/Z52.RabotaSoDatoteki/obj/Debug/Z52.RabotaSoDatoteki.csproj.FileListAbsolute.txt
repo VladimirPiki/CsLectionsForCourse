@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.exe.config
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.pdb
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\obj\Debug\Z52.RabotaSoDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z52.RabotaSoDatoteki\Z52.RabotaSoDatoteki\bin\Debug\Z52.RabotaSoDatoteki.pdb

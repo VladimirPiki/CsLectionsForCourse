@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\obj\Debug\BrojNaRasteckiStringovi-myExcercise.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\obj\Debug\BrojNaRasteckiStringovi-myExcercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\obj\Debug\BrojNaRasteckiStringovi-myExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\bin\Debug\BrojNaRasteckiStringovi-myExcercise.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\bin\Debug\BrojNaRasteckiStringovi-myExcercise.exe
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\bin\Debug\BrojNaRasteckiStringovi-myExcercise.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\obj\Debug\BrojNaRasteckiStringovi-myExcercise.exe
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-myExcercise\BrojNaRasteckiStringovi-myExcercise\obj\Debug\BrojNaRasteckiStringovi-myExcercise.pdb

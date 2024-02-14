@@ -1,0 +1,20 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.Form1.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.Properties.Resources.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.csproj.GenerateResource.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\bin\Debug\Event.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\bin\Debug\Event.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\bin\Debug\Event.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Event\Event\obj\Debug\Event.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.exe
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\Event\Event\obj\Debug\Event.Program.resources

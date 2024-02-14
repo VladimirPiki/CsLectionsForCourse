@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\bin\Debug\Stack-PrikazuvamePosledenElement.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\bin\Debug\Stack-PrikazuvamePosledenElement.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\bin\Debug\Stack-PrikazuvamePosledenElement.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\obj\Debug\Stack-PrikazuvamePosledenElement.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\obj\Debug\Stack-PrikazuvamePosledenElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\obj\Debug\Stack-PrikazuvamePosledenElement.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\obj\Debug\Stack-PrikazuvamePosledenElement.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Stack-PrikazuvamePosledenElement\Stack-PrikazuvamePosledenElement\obj\Debug\Stack-PrikazuvamePosledenElement.pdb

@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\obj\Debug\M31.Baksis.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\M31. Baksis\M31. Baksis\obj\Debug\M31.Baksis.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\bin\Debug\M31.Baksis.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\obj\Debug\M31. Baksis.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\obj\Debug\M31.Baksis.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M31. Baksis\M31. Baksis\obj\Debug\M31.Baksis.pdb

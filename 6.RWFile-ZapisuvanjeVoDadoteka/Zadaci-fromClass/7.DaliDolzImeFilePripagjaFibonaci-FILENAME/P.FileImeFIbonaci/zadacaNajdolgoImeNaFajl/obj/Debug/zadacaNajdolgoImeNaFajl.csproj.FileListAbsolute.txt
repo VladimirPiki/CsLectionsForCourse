@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\bin\Debug\zadacaNajdolgoImeNaFajl.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\bin\Debug\zadacaNajdolgoImeNaFajl.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\bin\Debug\zadacaNajdolgoImeNaFajl.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\obj\Debug\zadacaNajdolgoImeNaFajl.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\obj\Debug\zadacaNajdolgoImeNaFajl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\obj\Debug\zadacaNajdolgoImeNaFajl.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\obj\Debug\zadacaNajdolgoImeNaFajl.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\zadacaNajdolgoImeNaFajl\zadacaNajdolgoImeNaFajl\obj\Debug\zadacaNajdolgoImeNaFajl.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M11. Malo loto", "M11. Malo loto\M11. Malo loto.csproj", "{982CE97E-9480-47F3-BA54-6F4040E07D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982CE97E-9480-47F3-BA54-6F4040E07D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982CE97E-9480-47F3-BA54-6F4040E07D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982CE97E-9480-47F3-BA54-6F4040E07D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982CE97E-9480-47F3-BA54-6F4040E07D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3DB064-74A6-4C64-9F0F-8E67D9C56B7A}
+	EndGlobalSection
+EndGlobal

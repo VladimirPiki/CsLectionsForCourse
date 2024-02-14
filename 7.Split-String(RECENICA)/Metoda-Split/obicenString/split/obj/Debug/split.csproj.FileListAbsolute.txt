@@ -1,0 +1,24 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\bin\Debug\split.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\bin\Debug\split.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\bin\Debug\split.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\obj\Debug\split.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\obj\Debug\split.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\obj\Debug\split.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split\split\obj\Debug\split.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\bin\Debug\split.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\bin\Debug\split.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\bin\Debug\split.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\obj\Debug\split.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\obj\Debug\split.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\obj\Debug\split.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\New folder\split\split\obj\Debug\split.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\bin\Debug\split.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\bin\Debug\split.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\bin\Debug\split.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\obj\Debug\split.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\obj\Debug\split.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\obj\Debug\split.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\obj\Debug\split.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split\split\obj\Debug\split.pdb

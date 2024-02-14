@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\bin\Debug\Т1.NajdolgoIme.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т1.NajdolgoIme\Т1.NajdolgoIme\obj\Debug\Т1.NajdolgoIme.pdb

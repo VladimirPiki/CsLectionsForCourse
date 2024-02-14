@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.exe
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\bin\Debug\delegates-and-events.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.exe
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\delegates-and-events\delegates-and-events\obj\Debug\delegates-and-events.pdb

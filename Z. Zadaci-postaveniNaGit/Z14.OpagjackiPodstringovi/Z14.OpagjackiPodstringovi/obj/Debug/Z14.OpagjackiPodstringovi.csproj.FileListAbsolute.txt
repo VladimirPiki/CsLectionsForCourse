@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\bin\Debug\Z14.OpagjackiPodstringovi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\bin\Debug\Z14.OpagjackiPodstringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\bin\Debug\Z14.OpagjackiPodstringovi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\obj\Debug\Z14.OpagjackiPodstringovi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\obj\Debug\Z14.OpagjackiPodstringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\obj\Debug\Z14.OpagjackiPodstringovi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\obj\Debug\Z14.OpagjackiPodstringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z14.OpagjackiPodstringovi\Z14.OpagjackiPodstringovi\obj\Debug\Z14.OpagjackiPodstringovi.pdb

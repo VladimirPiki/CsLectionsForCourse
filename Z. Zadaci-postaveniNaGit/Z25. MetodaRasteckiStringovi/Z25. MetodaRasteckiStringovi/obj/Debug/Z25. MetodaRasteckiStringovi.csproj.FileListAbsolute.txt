@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\bin\Debug\Z25.MetodaRasteckiStringovi.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\bin\Debug\Z25.MetodaRasteckiStringovi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\bin\Debug\Z25.MetodaRasteckiStringovi.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\obj\Debug\Z25. MetodaRasteckiStringovi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\obj\Debug\Z25. MetodaRasteckiStringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\obj\Debug\Z25. MetodaRasteckiStringovi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\obj\Debug\Z25.MetodaRasteckiStringovi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z25. MetodaRasteckiStringovi\Z25. MetodaRasteckiStringovi\obj\Debug\Z25.MetodaRasteckiStringovi.pdb

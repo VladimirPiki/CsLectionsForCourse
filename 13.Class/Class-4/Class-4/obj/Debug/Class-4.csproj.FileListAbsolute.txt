@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\bin\Debug\Class-4.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\bin\Debug\Class-4.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\bin\Debug\Class-4.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\obj\Debug\Class-4.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\obj\Debug\Class-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\obj\Debug\Class-4.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\obj\Debug\Class-4.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-4\Class-4\obj\Debug\Class-4.pdb

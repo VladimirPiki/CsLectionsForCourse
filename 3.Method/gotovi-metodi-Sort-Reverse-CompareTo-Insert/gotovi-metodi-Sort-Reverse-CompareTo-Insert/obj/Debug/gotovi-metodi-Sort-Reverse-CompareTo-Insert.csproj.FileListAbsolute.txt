@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\bin\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\bin\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\bin\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\obj\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\obj\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\obj\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\obj\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\gotovi-metodi-Sort-Reverse-CompareTo-Insert\gotovi-metodi-Sort-Reverse-CompareTo-Insert\obj\Debug\gotovi-metodi-Sort-Reverse-CompareTo-Insert.pdb

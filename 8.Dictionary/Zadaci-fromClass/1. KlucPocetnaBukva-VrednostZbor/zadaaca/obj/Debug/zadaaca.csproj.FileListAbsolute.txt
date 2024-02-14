@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\bin\Debug\zadaaca.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\bin\Debug\zadaaca.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\bin\Debug\zadaaca.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\obj\Debug\zadaaca.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\obj\Debug\zadaaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\obj\Debug\zadaaca.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\obj\Debug\zadaaca.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\zadaaca\zadaaca\obj\Debug\zadaaca.pdb

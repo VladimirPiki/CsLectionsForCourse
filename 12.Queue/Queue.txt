@@ -1,0 +1,33 @@
+
+Queue  rabotata primeri za doma
+Clear()	Removes all objects from the Queue<T>.
+Contains(T)	Determines whether an element is in the Queue<T>.
+CopyTo(T[], Int32)	Copies the Queue<T> elements to an existing one-dimensional Array, starting at the specified array index.
+Dequeue()	Removes and returns the object at the beginning of the Queue<T>.
+Enqueue(T)	Adds an object to the end of the Queue<T>.
+EnsureCapacity(Int32)	Ensures that the capacity of this queue is at least the specified capacity. If the current capacity is less than capacity, it is successively increased to twice the current capacity until it is at least the specified capacity.
+Equals(Object)	Determines whether the specified object is equal to the current object.
+	(Inherited from Object)
+GetEnumerator()	Returns an enumerator that iterates through the Queue<T>.
+
+Za da ja generirame Queue kolekcijata potrebno e da uklucime  System.Collections.Generic.
+Listata kolekcii na Queue mozi da cuva stringoj,integer i objekti.
+
+Dequeue() - Ova metoda go brisi  prviot vnesen element vo listata i go vrakja objektot na pocetokot od listata
+
+Enqueue(T)- Ova metoda dodava elemetite na krajot od listata.
+
+Clear() - Ova metoda gi brisi site objekti od listata queue
+
+CopyTo() - Gi kopira site elementi od kolekcijata Queue. Potoa gi vnesuva site kopirani elementi vo ednodimenzionalna niza pocnuvajki od pozicijata koja ke ja vnesime kako vtor vlezen parametar vednas do imeto na ednodimenzionalnata niza. Nizata vo koja ke se prefrlat kopiranite raboti 
+
+Equals(Object) - dali objektot e ednakov na tekovniot objekt. Vrakja true ili false, ako e ednakov  vrakja true ako ne e vrakja false.
+
+Contains(T) - Metodata Contains proveruva dali nekoj element go ima vo listata
+
+EnsureCapacity(Int32) - Ja menva goleminata na lista so cel da gi osigura site elementi da gi drzi vo listata
+
+GetEnumerator()- Pominuva na sekoja pozicija vo listata pocnuvajki od nula.
+
+
+

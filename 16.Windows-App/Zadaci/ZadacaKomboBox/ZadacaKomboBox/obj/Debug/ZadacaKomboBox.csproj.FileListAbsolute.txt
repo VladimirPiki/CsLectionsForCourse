@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\bin\Debug\ZadacaKomboBox.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\bin\Debug\ZadacaKomboBox.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\bin\Debug\ZadacaKomboBox.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ZadacaKomboBox\ZadacaKomboBox\obj\Debug\ZadacaKomboBox.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.exe.config
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.pdb
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\bin\Debug\Z49.MultipleInheritance.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z49.MultipleInheritance\Z49.MultipleInheritance\obj\Debug\Z49.MultipleInheritance.pdb

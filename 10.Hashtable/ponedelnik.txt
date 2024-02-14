@@ -1,0 +1,14 @@
+Vladimir, Mario, Hristijan
+Queue  rabotata primeri za doma
+Clear()	Removes all objects from the Queue<T>.
+Contains(T)	Determines whether an element is in the Queue<T>.
+CopyTo(T[], Int32)	Copies the Queue<T> elements to an existing one-dimensional Array, starting at the specified array index.
+Dequeue()	Removes and returns the object at the beginning of the Queue<T>.
+Enqueue(T)	Adds an object to the end of the Queue<T>.
+EnsureCapacity(Int32)	Ensures that the capacity of this queue is at least the specified capacity. If the current capacity is less than capacity, it is successively increased to twice the current capacity until it is at least the specified capacity.
+Equals(Object)	Determines whether the specified object is equal to the current object.
+	(Inherited from Object)
+GetEnumerator()	Returns an enumerator that iterates through the Queue<T>.
+
+From <https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1?view=net-7.0> 
+sto srabotova i kako raboti. so treba da raboti. 41so rekurzija da ja resham

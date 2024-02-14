@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\bin\Debug\Z73.ClientWinTextFile.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\bin\Debug\Z73.ClientWinTextFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\bin\Debug\Z73.ClientWinTextFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73. ClientWinTextFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73. ClientWinTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73.ClientWinTextFile.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73.ClientWinTextFile.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73. ClientWinTextFile.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73. ClientWinTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73.ClientWinTextFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ClientWinTextFile\Z73. ClientWinTextFile\obj\Debug\Z73.ClientWinTextFile.pdb

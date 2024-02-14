@@ -1,0 +1,142 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CopyComplete
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\Z65.Ocenki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\stdole.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\bin\Debug\System.Data.SQLite.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CopyComplete
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekUcenik.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekPredmeti.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessOtstapuvanjePredmeti.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekPredmeti.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekUcenik.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\Z65.Ocenki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\EntityFramework.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SQLite.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\stdole.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\EntityFramework.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\bin\Debug\System.Data.SQLite.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CopyComplete
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessDistribucijaOcenki.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki1\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessSlabiOcenki.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\Z65.Ocenki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\EntityFramework.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SQLite.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\stdole.dll
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\EntityFramework.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\bin\Debug\System.Data.SQLite.xml
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessDistribucijaOcenki.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessOtstapuvanjePredmeti.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekPredmeti.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekUcenik.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessSlabiOcenki.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CopyComplete
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z65.Ocenki2\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Z65.Ocenki\Z65.Ocenki\obj\Debug\Z65.Ocenki.pdb

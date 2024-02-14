@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\bin\Debug\Т4.ТriNajgolemi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\bin\Debug\Т4.ТriNajgolemi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\bin\Debug\Т4.ТriNajgolemi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\obj\Debug\Т4. ТriNajgolemi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\obj\Debug\Т4. ТriNajgolemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\obj\Debug\Т4. ТriNajgolemi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\obj\Debug\Т4.ТriNajgolemi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т4. ТriNajgolemi\Т4. ТriNajgolemi\obj\Debug\Т4.ТriNajgolemi.pdb

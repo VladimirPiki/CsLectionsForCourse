@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\bin\Debug\Z27.MetodNajnoguUnikati.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\bin\Debug\Z27.MetodNajnoguUnikati.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\bin\Debug\Z27.MetodNajnoguUnikati.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\obj\Debug\Z27. MetodNajnoguUnikati.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\obj\Debug\Z27. MetodNajnoguUnikati.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\obj\Debug\Z27. MetodNajnoguUnikati.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\obj\Debug\Z27.MetodNajnoguUnikati.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z27. MetodNajnoguUnikati\Z27. MetodNajnoguUnikati\obj\Debug\Z27.MetodNajnoguUnikati.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\bin\Debug\metoda-kolekcii.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\bin\Debug\metoda-kolekcii.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\bin\Debug\metoda-kolekcii.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\obj\Debug\metoda-kolekcii.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\obj\Debug\metoda-kolekcii.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\obj\Debug\metoda-kolekcii.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\obj\Debug\metoda-kolekcii.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-kolekcii\metoda-kolekcii\obj\Debug\metoda-kolekcii.pdb

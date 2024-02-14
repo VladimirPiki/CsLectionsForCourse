@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\bin\Debug\Rekurzija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\obj\Debug\Rekurzija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Zadaci-NemamNigdePostaveno-Tocni\Rekurzija\Rekurzija\obj\Debug\Rekurzija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\bin\Debug\Rekurzija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\bin\Debug\Rekurzija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\obj\Debug\Rekurzija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\obj\Debug\Rekurzija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\9.Rekurzija\Rekurzija\Rekurzija\obj\Debug\Rekurzija.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\obj\Debug\Z19.ListaStringFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\obj\Debug\Z19.ListaStringFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\obj\Debug\Z19.ListaStringFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\bin\Debug\Z19.ListaStringFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\bin\Debug\Z19.ListaStringFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\bin\Debug\Z19.ListaStringFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\obj\Debug\Z19.ListaStringFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z19.ListaStringFibonaci\Z19.ListaStringFibonaci\obj\Debug\Z19.ListaStringFibonaci.pdb

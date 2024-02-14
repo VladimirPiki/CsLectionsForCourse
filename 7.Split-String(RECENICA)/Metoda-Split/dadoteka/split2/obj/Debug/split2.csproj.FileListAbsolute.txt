@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\bin\Debug\split2.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\bin\Debug\split2.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\bin\Debug\split2.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\obj\Debug\split2.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\obj\Debug\split2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\obj\Debug\split2.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\obj\Debug\split2.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\split2\split2\obj\Debug\split2.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\bin\Debug\split2.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\bin\Debug\split2.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\bin\Debug\split2.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\obj\Debug\split2.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\obj\Debug\split2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\obj\Debug\split2.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\obj\Debug\split2.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\split2\split2\obj\Debug\split2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\bin\Debug\CreateTextIfNotExist.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\1.CreateTextIfNotExist\CreateTextIfNotExist\obj\Debug\CreateTextIfNotExist.pdb

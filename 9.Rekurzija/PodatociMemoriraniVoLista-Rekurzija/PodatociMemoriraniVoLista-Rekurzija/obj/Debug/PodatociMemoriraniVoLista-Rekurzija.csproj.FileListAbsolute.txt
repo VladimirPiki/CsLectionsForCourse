@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\bin\Debug\PodatociMemoriraniVoLista-Rekurzija.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\bin\Debug\PodatociMemoriraniVoLista-Rekurzija.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\bin\Debug\PodatociMemoriraniVoLista-Rekurzija.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\obj\Debug\PodatociMemoriraniVoLista-Rekurzija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\obj\Debug\PodatociMemoriraniVoLista-Rekurzija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\obj\Debug\PodatociMemoriraniVoLista-Rekurzija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\obj\Debug\PodatociMemoriraniVoLista-Rekurzija.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\PodatociMemoriraniVoLista-Rekurzija\PodatociMemoriraniVoLista-Rekurzija\obj\Debug\PodatociMemoriraniVoLista-Rekurzija.pdb

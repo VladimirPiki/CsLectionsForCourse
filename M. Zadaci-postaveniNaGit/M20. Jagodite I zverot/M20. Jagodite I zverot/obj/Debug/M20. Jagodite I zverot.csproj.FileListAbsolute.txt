@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\bin\Debug\M20.Jagodite_I_zverot.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\bin\Debug\M20.Jagodite_I_zverot.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\bin\Debug\M20.Jagodite_I_zverot.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\obj\Debug\M20. Jagodite I zverot.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\obj\Debug\M20. Jagodite I zverot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\obj\Debug\M20. Jagodite I zverot.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\obj\Debug\M20.Jagodite_I_zverot.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M20. Jagodite I zverot\M20. Jagodite I zverot\obj\Debug\M20.Jagodite_I_zverot.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\bin\Debug\M23.Baba_Rada_I_Baba_nada.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\bin\Debug\M23.Baba_Rada_I_Baba_nada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\bin\Debug\M23.Baba_Rada_I_Baba_nada.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\obj\Debug\M23. Baba Rada I Baba nada.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\obj\Debug\M23. Baba Rada I Baba nada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\obj\Debug\M23. Baba Rada I Baba nada.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\obj\Debug\M23.Baba_Rada_I_Baba_nada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M23. Baba Rada I Baba nada\M23. Baba Rada I Baba nada\obj\Debug\M23.Baba_Rada_I_Baba_nada.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\obj\Debug\Z21. RasteckiString.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\obj\Debug\Z21. RasteckiString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\obj\Debug\Z21. RasteckiString.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\bin\Debug\Z21.RasteckiString.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\bin\Debug\Z21.RasteckiString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\bin\Debug\Z21.RasteckiString.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\obj\Debug\Z21.RasteckiString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z21. RasteckiString\Z21. RasteckiString\obj\Debug\Z21.RasteckiString.pdb

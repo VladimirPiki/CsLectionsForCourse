@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\bin\Debug\events.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\bin\Debug\events.exe
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\bin\Debug\events.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\obj\Debug\events.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\obj\Debug\events.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\obj\Debug\events.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\obj\Debug\events.exe
+C:\Users\Vladimir Piki\mikrosamProekti\17.DelegatesAndEvents\events\events\obj\Debug\events.pdb

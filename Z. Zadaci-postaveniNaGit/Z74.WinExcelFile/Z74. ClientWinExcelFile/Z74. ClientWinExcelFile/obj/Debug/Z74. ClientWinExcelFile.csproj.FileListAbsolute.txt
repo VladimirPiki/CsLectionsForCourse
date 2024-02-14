@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\bin\Debug\Z74.ClientWinExcelFile.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\bin\Debug\Z74.ClientWinExcelFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\bin\Debug\Z74.ClientWinExcelFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74. ClientWinExcelFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74. ClientWinExcelFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74.ClientWinExcelFile.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74.ClientWinExcelFile.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74. ClientWinExcelFile.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74. ClientWinExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74.ClientWinExcelFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ClientWinExcelFile\Z74. ClientWinExcelFile\obj\Debug\Z74.ClientWinExcelFile.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\bin\Debug\Т6.Licnosti.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\bin\Debug\Т6.Licnosti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\bin\Debug\Т6.Licnosti.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\obj\Debug\Т6. Licnosti.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\obj\Debug\Т6. Licnosti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\obj\Debug\Т6. Licnosti.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\obj\Debug\Т6.Licnosti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\Т6. Licnosti\Т6. Licnosti\obj\Debug\Т6.Licnosti.pdb

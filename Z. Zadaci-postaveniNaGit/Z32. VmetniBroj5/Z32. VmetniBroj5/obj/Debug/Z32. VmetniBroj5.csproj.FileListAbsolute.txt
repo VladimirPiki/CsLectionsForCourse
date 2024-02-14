@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\obj\Debug\Z32. VmetniBroj5.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\obj\Debug\Z32. VmetniBroj5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\obj\Debug\Z32. VmetniBroj5.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\bin\Debug\Z32.VmetniBroj5.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\bin\Debug\Z32.VmetniBroj5.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\bin\Debug\Z32.VmetniBroj5.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\obj\Debug\Z32.VmetniBroj5.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z32. VmetniBroj5\Z32. VmetniBroj5\obj\Debug\Z32.VmetniBroj5.pdb

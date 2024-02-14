@@ -1,0 +1,21 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\Z73.ServerWinTextFile.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\Z73.ServerWinTextFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\Z73.ServerWinTextFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73. ServerWinTextFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73. ServerWinTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73.ServerWinTextFile.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73.ServerWinTextFile.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73. ServerWinTextFile.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73. ServerWinTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73.ServerWinTextFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73.ServerWinTextFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z73. ServerWinTextFile\Z73. ServerWinTextFile\obj\Debug\Z73. ServerWinTextFile.csproj.CopyComplete

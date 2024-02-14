@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\bin\Debug\4.ReadAllLines.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\bin\Debug\4.ReadAllLines.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\bin\Debug\4.ReadAllLines.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\obj\Debug\4.ReadAllLines.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.ReadAllLines\4.ReadAllLines\obj\Debug\4.ReadAllLines.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\bin\Debug\4.ReadAllLines.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\bin\Debug\4.ReadAllLines.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\bin\Debug\4.ReadAllLines.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\obj\Debug\4.ReadAllLines.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\obj\Debug\4.ReadAllLines.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\4.AllForFiles\4.ReadAllLines\obj\Debug\4.ReadAllLines.pdb

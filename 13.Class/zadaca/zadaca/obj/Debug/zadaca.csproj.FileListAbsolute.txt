@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe.config
+C:\Users\User\source\repos\zadaca\zadaca\bin\Debug\zadaca.exe
+C:\Users\User\source\repos\zadaca\zadaca\bin\Debug\zadaca.pdb
+C:\Users\User\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\zadaca\zadaca\obj\Debug\zadaca.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\zadaca\zadaca\obj\Debug\zadaca.exe
+C:\Users\User\source\repos\zadaca\zadaca\obj\Debug\zadaca.pdb

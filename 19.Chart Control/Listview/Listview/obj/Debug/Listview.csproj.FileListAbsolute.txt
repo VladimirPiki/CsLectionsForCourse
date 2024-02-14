@@ -1,0 +1,11 @@
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\bin\Debug\Listview.exe.config
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\bin\Debug\Listview.exe
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\bin\Debug\Listview.pdb
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.csproj.AssemblyReference.cache
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.Form1.resources
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.Properties.Resources.resources
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.csproj.GenerateResource.cache
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.csproj.CoreCompileInputs.cache
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.exe
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.pdb
+C:\Vladimir\PLC_Windows_Formi\Listview\Listview\obj\Debug\Listview.Form2.resources

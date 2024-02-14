@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\bin\Debug\P.MetodaUnikatiKarakteri.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\bin\Debug\P.MetodaUnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\bin\Debug\P.MetodaUnikatiKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\obj\Debug\P. MetodaUnikatiKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\obj\Debug\P. MetodaUnikatiKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\obj\Debug\P. MetodaUnikatiKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\obj\Debug\P.MetodaUnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\P. Zadaci-postaveniNaGit\P. MetodaUnikatiKarakteri\P. MetodaUnikatiKarakteri\obj\Debug\P.MetodaUnikatiKarakteri.pdb

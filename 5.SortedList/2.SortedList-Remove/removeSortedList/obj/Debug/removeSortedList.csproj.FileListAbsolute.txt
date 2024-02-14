@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\bin\Debug\removeSortedList.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\bin\Debug\removeSortedList.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\bin\Debug\removeSortedList.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\obj\Debug\removeSortedList.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\obj\Debug\removeSortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\obj\Debug\removeSortedList.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\obj\Debug\removeSortedList.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\removeSortedList\removeSortedList\obj\Debug\removeSortedList.pdb

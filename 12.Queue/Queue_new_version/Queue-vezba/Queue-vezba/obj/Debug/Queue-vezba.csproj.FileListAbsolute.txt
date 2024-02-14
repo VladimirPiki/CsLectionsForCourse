@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\bin\Debug\Queue-vezba.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\bin\Debug\Queue-vezba.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\bin\Debug\Queue-vezba.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\obj\Debug\Queue-vezba.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\obj\Debug\Queue-vezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\obj\Debug\Queue-vezba.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\obj\Debug\Queue-vezba.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Queue-vezba\Queue-vezba\obj\Debug\Queue-vezba.pdb

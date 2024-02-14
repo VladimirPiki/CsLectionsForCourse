@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\obj\Debug\prvCas1-08.06.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\obj\Debug\prvCas1-08.06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\obj\Debug\prvCas1-08.06.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\bin\Debug\prvCas1-08.06.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\bin\Debug\prvCas1-08.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\bin\Debug\prvCas1-08.06.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\obj\Debug\prvCas1-08.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\prvCas1-08.06\prvCas1-08.06\obj\Debug\prvCas1-08.06.pdb

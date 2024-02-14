@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metoda-najdi-najgolem-broj-lista", "metoda-najdi-najgolem-broj-lista\metoda-najdi-najgolem-broj-lista.csproj", "{B07BA4D7-99CF-49DF-BD2F-56B3B341A83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07BA4D7-99CF-49DF-BD2F-56B3B341A83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07BA4D7-99CF-49DF-BD2F-56B3B341A83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07BA4D7-99CF-49DF-BD2F-56B3B341A83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07BA4D7-99CF-49DF-BD2F-56B3B341A83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC453A8-5469-49AF-AEE4-F0762F3DDECC}
+	EndGlobalSection
+EndGlobal

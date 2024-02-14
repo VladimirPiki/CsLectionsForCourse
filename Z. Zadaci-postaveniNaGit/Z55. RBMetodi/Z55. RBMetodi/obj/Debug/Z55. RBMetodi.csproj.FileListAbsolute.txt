@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\bin\Debug\Z55.RBMetodi.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\bin\Debug\Z55.RBMetodi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\bin\Debug\Z55.RBMetodi.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55. RBMetodi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55. RBMetodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55.RBMetodi.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55.RBMetodi.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55. RBMetodi.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55. RBMetodi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55.RBMetodi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z55. RBMetodi\Z55. RBMetodi\obj\Debug\Z55.RBMetodi.pdb

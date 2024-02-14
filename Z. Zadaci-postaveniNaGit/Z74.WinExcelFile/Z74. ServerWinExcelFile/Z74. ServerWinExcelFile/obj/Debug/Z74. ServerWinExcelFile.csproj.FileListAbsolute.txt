@@ -1,0 +1,58 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.CopyComplete
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Z74.ServerWinExcelFile.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74. ServerWinExcelFile.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z74.WinExcelFile\Z74. ServerWinExcelFile\Z74. ServerWinExcelFile\obj\Debug\Z74.ServerWinExcelFile.pdb

@@ -1,0 +1,20 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66. TwoTables.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66. TwoTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66.TwoTables.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66.TwoTables.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66. TwoTables.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66. TwoTables.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\Z66.TwoTables.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\Z66.TwoTables.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\Z66.TwoTables.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66. TwoTables.csproj.CopyComplete
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66.TwoTables.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z66. TwoTables\Z66. TwoTables\obj\Debug\Z66.TwoTables.pdb

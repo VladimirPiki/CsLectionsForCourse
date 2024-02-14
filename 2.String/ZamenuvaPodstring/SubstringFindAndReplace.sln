@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringFindAndReplace", "SubstringFindAndReplace\SubstringFindAndReplace.csproj", "{BAEAFB7B-B5B4-4711-8FAC-B555CE4CE36F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEAFB7B-B5B4-4711-8FAC-B555CE4CE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEAFB7B-B5B4-4711-8FAC-B555CE4CE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEAFB7B-B5B4-4711-8FAC-B555CE4CE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEAFB7B-B5B4-4711-8FAC-B555CE4CE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7786AD-0EAA-4688-AB61-7C59A295D063}
+	EndGlobalSection
+EndGlobal

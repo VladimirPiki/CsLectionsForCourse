@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\bin\Debug\Z42.ListMetodaDatoteka.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\bin\Debug\Z42.ListMetodaDatoteka.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\bin\Debug\Z42.ListMetodaDatoteka.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\obj\Debug\Z42.ListMetodaDatoteka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\obj\Debug\Z42.ListMetodaDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\obj\Debug\Z42.ListMetodaDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\obj\Debug\Z42.ListMetodaDatoteka.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z42.ListMetodaDatoteka\Z42.ListMetodaDatoteka\obj\Debug\Z42.ListMetodaDatoteka.pdb

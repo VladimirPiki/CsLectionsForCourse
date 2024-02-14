@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\obj\Debug\M4. Mrzlivoto dzudze - ucilisen 2021.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\obj\Debug\M4. Mrzlivoto dzudze - ucilisen 2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\obj\Debug\M4. Mrzlivoto dzudze - ucilisen 2021.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\bin\Debug\M4.Mrzlivoto_dzudze___ucilisen_2021.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\bin\Debug\M4.Mrzlivoto_dzudze___ucilisen_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\bin\Debug\M4.Mrzlivoto_dzudze___ucilisen_2021.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\obj\Debug\M4.Mrzlivoto_dzudze___ucilisen_2021.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M4. Mrzlivoto dzudze - ucilisen 2021\M4. Mrzlivoto dzudze - ucilisen 2021\obj\Debug\M4.Mrzlivoto_dzudze___ucilisen_2021.pdb

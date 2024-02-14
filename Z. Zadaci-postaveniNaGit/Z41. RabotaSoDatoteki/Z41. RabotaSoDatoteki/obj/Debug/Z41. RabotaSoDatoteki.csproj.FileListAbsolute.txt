@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41.RabotaSoDatoteki.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41.RabotaSoDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\bin\Debug\Z41.RabotaSoDatoteki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41. RabotaSoDatoteki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41.RabotaSoDatoteki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z41. RabotaSoDatoteki\Z41. RabotaSoDatoteki\obj\Debug\Z41.RabotaSoDatoteki.pdb

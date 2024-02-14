@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\bin\Debug\SumaOdBroevi.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\bin\Debug\SumaOdBroevi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\bin\Debug\SumaOdBroevi.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\obj\Debug\SumaOdBroevi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\obj\Debug\SumaOdBroevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\obj\Debug\SumaOdBroevi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\obj\Debug\SumaOdBroevi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\SumaOdBroevi\SumaOdBroevi\obj\Debug\SumaOdBroevi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\bin\Debug\M16.Stedenje.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\bin\Debug\M16.Stedenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\bin\Debug\M16.Stedenje.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\obj\Debug\M16. Stedenje.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\obj\Debug\M16. Stedenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\obj\Debug\M16. Stedenje.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\obj\Debug\M16.Stedenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M16. Stedenje\M16. Stedenje\obj\Debug\M16.Stedenje.pdb

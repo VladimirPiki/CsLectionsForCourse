@@ -1,0 +1,24 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\bin\Debug\Z36.LicnositImeDatoteka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z36.LicnositImeDatoteka\Z36.LicnositImeDatoteka\obj\Debug\Z36.LicnositImeDatoteka.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\bin\Debug\Hashtable-removePair.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\bin\Debug\Hashtable-removePair.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\bin\Debug\Hashtable-removePair.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\obj\Debug\Hashtable-removePair.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\obj\Debug\Hashtable-removePair.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\obj\Debug\Hashtable-removePair.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\obj\Debug\Hashtable-removePair.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-removePair\Hashtable-removePair\obj\Debug\Hashtable-removePair.pdb

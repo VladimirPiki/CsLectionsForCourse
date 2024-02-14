@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\bin\Debug\fibonaci-fromClass.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\bin\Debug\fibonaci-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\bin\Debug\fibonaci-fromClass.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\obj\Debug\fibonaci-fromClass.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\obj\Debug\fibonaci-fromClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\obj\Debug\fibonaci-fromClass.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\obj\Debug\fibonaci-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-fromClass\fibonaci-fromClass\obj\Debug\fibonaci-fromClass.pdb

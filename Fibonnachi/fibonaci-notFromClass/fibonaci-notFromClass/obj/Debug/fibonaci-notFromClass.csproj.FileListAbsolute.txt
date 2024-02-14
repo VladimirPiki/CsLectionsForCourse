@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\bin\Debug\fibonaci-notFromClass.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\bin\Debug\fibonaci-notFromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\bin\Debug\fibonaci-notFromClass.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\obj\Debug\fibonaci-notFromClass.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\obj\Debug\fibonaci-notFromClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\obj\Debug\fibonaci-notFromClass.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\obj\Debug\fibonaci-notFromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\fibonaci-notFromClass\fibonaci-notFromClass\obj\Debug\fibonaci-notFromClass.pdb

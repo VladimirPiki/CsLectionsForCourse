@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3.ImeRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3.ImeRazlicniKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\bin\Debug\T3.ImeRazlicniKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3. ImeRazlicniKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3.ImeRazlicniKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\T. Zadaci-postaveniNaGit\T3. ImeRazlicniKarakteri\T3. ImeRazlicniKarakteri\obj\Debug\T3.ImeRazlicniKarakteri.pdb

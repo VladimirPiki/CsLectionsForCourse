@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\bin\Debug\M12.Datum.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\bin\Debug\M12.Datum.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\bin\Debug\M12.Datum.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\obj\Debug\M12.Datum.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M12. Datum\M12. Datum\obj\Debug\M12.Datum.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\bin\Debug\M12.Datum.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\bin\Debug\M12.Datum.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\bin\Debug\M12.Datum.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\obj\Debug\M12. Datum.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\obj\Debug\M12.Datum.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M12. Datum\M12. Datum\obj\Debug\M12.Datum.pdb

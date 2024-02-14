@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\bin\Debug\opagjackiNizi-fromClass.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\bin\Debug\opagjackiNizi-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\bin\Debug\opagjackiNizi-fromClass.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\obj\Debug\opagjackiNizi-fromClass.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\obj\Debug\opagjackiNizi-fromClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\obj\Debug\opagjackiNizi-fromClass.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\obj\Debug\opagjackiNizi-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\opagjackiNizi-fromClass\opagjackiNizi-fromClass\obj\Debug\opagjackiNizi-fromClass.pdb

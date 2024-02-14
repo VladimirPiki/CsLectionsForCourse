@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\bin\Debug\rasteckiNiziKarakteriNaFibona-fromClass.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\bin\Debug\rasteckiNiziKarakteriNaFibona-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\bin\Debug\rasteckiNiziKarakteriNaFibona-fromClass.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\obj\Debug\rasteckiNiziKarakteriNaFibona-fromClass.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\obj\Debug\rasteckiNiziKarakteriNaFibona-fromClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\obj\Debug\rasteckiNiziKarakteriNaFibona-fromClass.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\obj\Debug\rasteckiNiziKarakteriNaFibona-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Lista-rastecka-opagjacka\rasteckiNiziKarakteriNaFibona-fromClass\rasteckiNiziKarakteriNaFibona-fromClass\obj\Debug\rasteckiNiziKarakteriNaFibona-fromClass.pdb

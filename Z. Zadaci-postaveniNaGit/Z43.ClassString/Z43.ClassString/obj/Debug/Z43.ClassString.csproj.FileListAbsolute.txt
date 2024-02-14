@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\bin\Debug\Z43.ClassString.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\bin\Debug\Z43.ClassString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\bin\Debug\Z43.ClassString.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\obj\Debug\Z43.ClassString.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\obj\Debug\Z43.ClassString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\obj\Debug\Z43.ClassString.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\obj\Debug\Z43.ClassString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z43.ClassString\Z43.ClassString\obj\Debug\Z43.ClassString.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\bin\Debug\Z12.PovtoruvanjePodstring.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\bin\Debug\Z12.PovtoruvanjePodstring.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\bin\Debug\Z12.PovtoruvanjePodstring.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\obj\Debug\Z12.PovtoruvanjePodstring.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\obj\Debug\Z12.PovtoruvanjePodstring.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\obj\Debug\Z12.PovtoruvanjePodstring.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\obj\Debug\Z12.PovtoruvanjePodstring.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z12.PovtoruvanjePodstring\Z12.PovtoruvanjePodstring\obj\Debug\Z12.PovtoruvanjePodstring.pdb

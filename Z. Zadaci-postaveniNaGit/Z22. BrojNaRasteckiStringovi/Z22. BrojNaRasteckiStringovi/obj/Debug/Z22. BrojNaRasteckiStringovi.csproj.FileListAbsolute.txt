@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\bin\Debug\Z22.BrojNaRasteckiStringovi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\bin\Debug\Z22.BrojNaRasteckiStringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\bin\Debug\Z22.BrojNaRasteckiStringovi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\obj\Debug\Z22. BrojNaRasteckiStringovi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\obj\Debug\Z22. BrojNaRasteckiStringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\obj\Debug\Z22. BrojNaRasteckiStringovi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\obj\Debug\Z22.BrojNaRasteckiStringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z22. BrojNaRasteckiStringovi\Z22. BrojNaRasteckiStringovi\obj\Debug\Z22.BrojNaRasteckiStringovi.pdb

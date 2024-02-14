@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\bin\Debug\Z15.KarakteriUnikati.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\bin\Debug\Z15.KarakteriUnikati.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\bin\Debug\Z15.KarakteriUnikati.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\obj\Debug\Z15.KarakteriUnikati.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\obj\Debug\Z15.KarakteriUnikati.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\obj\Debug\Z15.KarakteriUnikati.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\obj\Debug\Z15.KarakteriUnikati.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z15.KarakteriUnikati\Z15.KarakteriUnikati\obj\Debug\Z15.KarakteriUnikati.pdb

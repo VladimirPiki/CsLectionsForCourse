@@ -1,0 +1,13 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\bin\Debug\ModalModeless.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\bin\Debug\ModalModeless.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\bin\Debug\ModalModeless.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.ModelessDialog.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ModalModeless\ModalModeless\obj\Debug\ModalModeless.ModalDialog.resources

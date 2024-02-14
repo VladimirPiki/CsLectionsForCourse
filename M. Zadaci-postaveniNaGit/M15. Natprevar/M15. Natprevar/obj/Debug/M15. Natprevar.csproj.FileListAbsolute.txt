@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\obj\Debug\M15.Natprevar.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M15. Natprevar\M15. Natprevar\obj\Debug\M15.Natprevar.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\bin\Debug\M15.Natprevar.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\obj\Debug\M15. Natprevar.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\obj\Debug\M15.Natprevar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M15. Natprevar\M15. Natprevar\obj\Debug\M15.Natprevar.pdb

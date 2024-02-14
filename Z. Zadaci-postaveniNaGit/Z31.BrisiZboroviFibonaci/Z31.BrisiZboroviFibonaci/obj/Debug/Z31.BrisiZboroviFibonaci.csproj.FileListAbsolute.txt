@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\bin\Debug\Z31.BrisiZboroviFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\bin\Debug\Z31.BrisiZboroviFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\bin\Debug\Z31.BrisiZboroviFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\obj\Debug\Z31.BrisiZboroviFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\obj\Debug\Z31.BrisiZboroviFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\obj\Debug\Z31.BrisiZboroviFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\obj\Debug\Z31.BrisiZboroviFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z31.BrisiZboroviFibonaci\Z31.BrisiZboroviFibonaci\obj\Debug\Z31.BrisiZboroviFibonaci.pdb

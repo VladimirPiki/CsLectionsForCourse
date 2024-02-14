@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69. SQLServerLicnostPodatoci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69. SQLServerLicnostPodatoci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69.SQLServerLicnostPodatoci.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69.SQLServerLicnostPodatoci.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69. SQLServerLicnostPodatoci.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69. SQLServerLicnostPodatoci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\bin\Debug\Z69.SQLServerLicnostPodatoci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\bin\Debug\Z69.SQLServerLicnostPodatoci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\bin\Debug\Z69.SQLServerLicnostPodatoci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69.SQLServerLicnostPodatoci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Z69. SQLServerLicnostPodatoci\Z69. SQLServerLicnostPodatoci\obj\Debug\Z69.SQLServerLicnostPodatoci.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\bin\Debug\metoda-vrakja-NajvozrasnaLicnost.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\bin\Debug\metoda-vrakja-NajvozrasnaLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\bin\Debug\metoda-vrakja-NajvozrasnaLicnost.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\obj\Debug\metoda-vrakja-NajvozrasnaLicnost.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\obj\Debug\metoda-vrakja-NajvozrasnaLicnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\obj\Debug\metoda-vrakja-NajvozrasnaLicnost.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\obj\Debug\metoda-vrakja-NajvozrasnaLicnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\metoda-vrakja-NajvozrasnaLicnost\metoda-vrakja-NajvozrasnaLicnost\obj\Debug\metoda-vrakja-NajvozrasnaLicnost.pdb

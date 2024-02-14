@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\obj\Debug\Z45. NamespaceString.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\obj\Debug\Z45. NamespaceString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\obj\Debug\Z45. NamespaceString.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\bin\Debug\Z45.NamespaceString.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\bin\Debug\Z45.NamespaceString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\bin\Debug\Z45.NamespaceString.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\obj\Debug\Z45.NamespaceString.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z45. NamespaceString\Z45. NamespaceString\obj\Debug\Z45.NamespaceString.pdb

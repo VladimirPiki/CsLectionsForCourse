@@ -1,0 +1,22 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\bin\Debug\Z58.ListView.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58. ListView.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z58. ListView\Z58. ListView\obj\Debug\Z58.ListView.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\obj\Debug\M17. Fatalna odbivnost.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\obj\Debug\M17. Fatalna odbivnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\obj\Debug\M17. Fatalna odbivnost.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\bin\Debug\M17.Fatalna_odbivnost.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\bin\Debug\M17.Fatalna_odbivnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\bin\Debug\M17.Fatalna_odbivnost.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\obj\Debug\M17.Fatalna_odbivnost.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M17. Fatalna odbivnost\M17. Fatalna odbivnost\obj\Debug\M17.Fatalna_odbivnost.pdb

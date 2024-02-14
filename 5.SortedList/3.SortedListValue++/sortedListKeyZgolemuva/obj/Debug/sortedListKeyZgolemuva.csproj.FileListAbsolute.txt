@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\sortedListKeyZgolemuva\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\bin\Debug\sortedListKeyZgolemuva.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.exe
+C:\Users\Vladimir Piki\mikrosamProekti\5.sortedList\3.SortedListValue++\sortedListKeyZgolemuva\obj\Debug\sortedListKeyZgolemuva.pdb

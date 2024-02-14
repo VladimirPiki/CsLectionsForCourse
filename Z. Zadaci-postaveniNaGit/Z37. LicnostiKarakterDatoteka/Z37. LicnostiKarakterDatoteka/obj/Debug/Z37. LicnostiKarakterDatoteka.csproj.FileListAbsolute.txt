@@ -1,0 +1,8 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\obj\Debug\Z37. LicnostiKarakterDatoteka.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\obj\Debug\Z37. LicnostiKarakterDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\obj\Debug\Z37. LicnostiKarakterDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\bin\Debug\Z37.LicnostiKarakterDatoteka.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\bin\Debug\Z37.LicnostiKarakterDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\bin\Debug\Z37.LicnostiKarakterDatoteka.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\obj\Debug\Z37.LicnostiKarakterDatoteka.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z37. LicnostiKarakterDatoteka\Z37. LicnostiKarakterDatoteka\obj\Debug\Z37.LicnostiKarakterDatoteka.pdb

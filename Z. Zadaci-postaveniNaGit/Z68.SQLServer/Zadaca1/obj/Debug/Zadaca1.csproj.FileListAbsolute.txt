@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\bin\Debug\Zadaca1.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\bin\Debug\Zadaca1.exe
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\bin\Debug\Zadaca1.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.exe
+C:\Users\Vladimir Piki\mikrosamProekti\22.SQLServer\Zadaca1\Zadaca1\obj\Debug\Zadaca1.pdb

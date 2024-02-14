@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9.Pesacenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9.Pesacenje.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\bin\Debug\M9.Pesacenje.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9. Pesacenje.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9.Pesacenje.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M9. Pesacenje\M9. Pesacenje\obj\Debug\M9.Pesacenje.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\obj\Debug\Z47. HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\obj\Debug\Z47. HierarchicalInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\obj\Debug\Z47. HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\bin\Debug\Z47.HierarchicalInheritance.exe.config
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\bin\Debug\Z47.HierarchicalInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\bin\Debug\Z47.HierarchicalInheritance.pdb
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\obj\Debug\Z47.HierarchicalInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Z47. HierarchicalInheritance\Z47. HierarchicalInheritance\obj\Debug\Z47.HierarchicalInheritance.pdb

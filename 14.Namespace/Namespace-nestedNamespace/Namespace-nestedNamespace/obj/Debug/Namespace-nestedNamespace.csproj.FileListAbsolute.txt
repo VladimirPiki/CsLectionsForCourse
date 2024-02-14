@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\bin\Debug\Namespace-nestedNamespace.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\bin\Debug\Namespace-nestedNamespace.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\bin\Debug\Namespace-nestedNamespace.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\obj\Debug\Namespace-nestedNamespace.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\obj\Debug\Namespace-nestedNamespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\obj\Debug\Namespace-nestedNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\obj\Debug\Namespace-nestedNamespace.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Namespace-nestedNamespace\Namespace-nestedNamespace\obj\Debug\Namespace-nestedNamespace.pdb

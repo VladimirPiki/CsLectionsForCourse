@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\bin\Debug\Class-5-najdobar.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\bin\Debug\Class-5-najdobar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\bin\Debug\Class-5-najdobar.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\obj\Debug\Class-5-najdobar.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\obj\Debug\Class-5-najdobar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\obj\Debug\Class-5-najdobar.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\obj\Debug\Class-5-najdobar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\13.Class\novi\Class-5-najdobar\Class-5-najdobar\obj\Debug\Class-5-najdobar.pdb

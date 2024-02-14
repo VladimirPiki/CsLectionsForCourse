@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\bin\Debug\Hushtable-containsValue.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\bin\Debug\Hushtable-containsValue.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\bin\Debug\Hushtable-containsValue.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\obj\Debug\Hushtable-containsValue.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\obj\Debug\Hushtable-containsValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\obj\Debug\Hushtable-containsValue.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\obj\Debug\Hushtable-containsValue.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hushtable-containsValue\Hushtable-containsValue\obj\Debug\Hushtable-containsValue.pdb

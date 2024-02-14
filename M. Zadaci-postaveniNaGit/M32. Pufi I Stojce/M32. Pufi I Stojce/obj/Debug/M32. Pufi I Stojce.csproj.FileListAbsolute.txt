@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\bin\Debug\M32.Pufi_I_Stojce.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\bin\Debug\M32.Pufi_I_Stojce.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\bin\Debug\M32.Pufi_I_Stojce.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\obj\Debug\M32. Pufi I Stojce.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\obj\Debug\M32. Pufi I Stojce.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\obj\Debug\M32. Pufi I Stojce.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\obj\Debug\M32.Pufi_I_Stojce.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M32. Pufi I Stojce\M32. Pufi I Stojce\obj\Debug\M32.Pufi_I_Stojce.pdb

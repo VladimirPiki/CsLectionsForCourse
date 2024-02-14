@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\bin\Debug\M35.Slika.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\bin\Debug\M35.Slika.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\bin\Debug\M35.Slika.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\obj\Debug\M35. Slika.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\obj\Debug\M35. Slika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\obj\Debug\M35. Slika.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\obj\Debug\M35.Slika.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M35. Slika\M35. Slika\obj\Debug\M35.Slika.pdb

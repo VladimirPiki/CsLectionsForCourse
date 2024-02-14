@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\bin\Debug\primerNestedList.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\bin\Debug\primerNestedList.exe
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\bin\Debug\primerNestedList.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\obj\Debug\primerNestedList.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\obj\Debug\primerNestedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\obj\Debug\primerNestedList.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\obj\Debug\primerNestedList.exe
+C:\Users\Vladimir Piki\mikrosamProekti\PrimerNestedList\primerNestedList\primerNestedList\obj\Debug\primerNestedList.pdb

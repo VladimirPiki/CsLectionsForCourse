@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\bin\Debug\M26.Titanik_ili_tvrdina.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\bin\Debug\M26.Titanik_ili_tvrdina.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\bin\Debug\M26.Titanik_ili_tvrdina.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\obj\Debug\M26. Titanik ili tvrdina.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\obj\Debug\M26. Titanik ili tvrdina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\obj\Debug\M26. Titanik ili tvrdina.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\obj\Debug\M26.Titanik_ili_tvrdina.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M26. Titanik ili tvrdina\M26. Titanik ili tvrdina\obj\Debug\M26.Titanik_ili_tvrdina.pdb

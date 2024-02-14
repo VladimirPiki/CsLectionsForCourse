@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\bin\Debug\BrojNaRasteckiStringovi-vo-lista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\bin\Debug\BrojNaRasteckiStringovi-vo-lista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\bin\Debug\BrojNaRasteckiStringovi-vo-lista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\obj\Debug\BrojNaRasteckiStringovi-vo-lista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\obj\Debug\BrojNaRasteckiStringovi-vo-lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\obj\Debug\BrojNaRasteckiStringovi-vo-lista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\obj\Debug\BrojNaRasteckiStringovi-vo-lista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\string\BrojNaRasteckiStringovi-vo-lista\BrojNaRasteckiStringovi-vo-lista\obj\Debug\BrojNaRasteckiStringovi-vo-lista.pdb

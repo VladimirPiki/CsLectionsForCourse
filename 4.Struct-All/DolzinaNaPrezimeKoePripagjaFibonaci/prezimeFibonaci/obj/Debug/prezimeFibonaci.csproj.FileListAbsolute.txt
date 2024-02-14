@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\bin\Debug\prezimeFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\4.strukturi-struct -all\prezimeFibonaci\prezimeFibonaci\obj\Debug\prezimeFibonaci.pdb

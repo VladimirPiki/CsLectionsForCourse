@@ -1,0 +1,17 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\2.Primer-OneToMany.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\2.Primer-OneToMany.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\2.Primer-OneToMany.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.csproj.CopyComplete
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\2.Primer-OneToMany\2.Primer-OneToMany\obj\Debug\2.Primer-OneToMany.pdb

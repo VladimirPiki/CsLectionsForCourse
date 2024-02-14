@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\bin\Debug\M3.Upis_na_semestar.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\bin\Debug\M3.Upis_na_semestar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\bin\Debug\M3.Upis_na_semestar.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\obj\Debug\M3. Upis na semestar.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\obj\Debug\M3. Upis na semestar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\obj\Debug\M3. Upis na semestar.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\obj\Debug\M3.Upis_na_semestar.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M3. Upis na semestar\M3. Upis na semestar\obj\Debug\M3.Upis_na_semestar.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\bin\Debug\M16.Stedenje-fromClass.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\bin\Debug\M16.Stedenje-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\bin\Debug\M16.Stedenje-fromClass.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\obj\Debug\M16.Stedenje-fromClass.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\obj\Debug\M16.Stedenje-fromClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\obj\Debug\M16.Stedenje-fromClass.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\obj\Debug\M16.Stedenje-fromClass.exe
+C:\Users\Vladimir Piki\mikrosamProekti\zadaci-za-vezbanje\M16.Stedenje-fromClass\M16.Stedenje-fromClass\obj\Debug\M16.Stedenje-fromClass.pdb

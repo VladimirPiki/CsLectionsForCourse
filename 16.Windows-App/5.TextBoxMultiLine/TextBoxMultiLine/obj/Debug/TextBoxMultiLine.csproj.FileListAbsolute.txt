@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\bin\Debug\TextBoxMultiLine.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\bin\Debug\TextBoxMultiLine.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\bin\Debug\TextBoxMultiLine.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\TextBoxMultiLine\TextBoxMultiLine\obj\Debug\TextBoxMultiLine.pdb

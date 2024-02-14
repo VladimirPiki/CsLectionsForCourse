@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\bin\Debug\M18.Triagolnik.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\bin\Debug\M18.Triagolnik.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\bin\Debug\M18.Triagolnik.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\obj\Debug\M18. Triagolnik.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\obj\Debug\M18. Triagolnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\obj\Debug\M18. Triagolnik.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\obj\Debug\M18.Triagolnik.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M18. Triagolnik\M18. Triagolnik\obj\Debug\M18.Triagolnik.pdb

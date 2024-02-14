@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\bin\Debug\Z8.NajgolemParenBroj.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\bin\Debug\Z8.NajgolemParenBroj.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\bin\Debug\Z8.NajgolemParenBroj.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\obj\Debug\Z8.NajgolemParenBroj.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\obj\Debug\Z8.NajgolemParenBroj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\obj\Debug\Z8.NajgolemParenBroj.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\obj\Debug\Z8.NajgolemParenBroj.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\Z8.NajgolemParenBroj\Z8.NajgolemParenBroj\obj\Debug\Z8.NajgolemParenBroj.pdb

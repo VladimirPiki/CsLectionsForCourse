@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\bin\Debug\metoda-kolku-pati-se-povtoruva-karakter.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\bin\Debug\metoda-kolku-pati-se-povtoruva-karakter.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\bin\Debug\metoda-kolku-pati-se-povtoruva-karakter.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\obj\Debug\metoda-kolku-pati-se-povtoruva-karakter.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\obj\Debug\metoda-kolku-pati-se-povtoruva-karakter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\obj\Debug\metoda-kolku-pati-se-povtoruva-karakter.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\obj\Debug\metoda-kolku-pati-se-povtoruva-karakter.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-kolku-pati-se-povtoruva-karakter\metoda-kolku-pati-se-povtoruva-karakter\obj\Debug\metoda-kolku-pati-se-povtoruva-karakter.pdb

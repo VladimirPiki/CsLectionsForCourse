@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\bin\Debug\Z16.GradoviLista.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\bin\Debug\Z16.GradoviLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\bin\Debug\Z16.GradoviLista.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\obj\Debug\Z16.GradoviLista.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\obj\Debug\Z16.GradoviLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\obj\Debug\Z16.GradoviLista.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\obj\Debug\Z16.GradoviLista.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.GradoviLista\Z16.GradoviLista\obj\Debug\Z16.GradoviLista.pdb

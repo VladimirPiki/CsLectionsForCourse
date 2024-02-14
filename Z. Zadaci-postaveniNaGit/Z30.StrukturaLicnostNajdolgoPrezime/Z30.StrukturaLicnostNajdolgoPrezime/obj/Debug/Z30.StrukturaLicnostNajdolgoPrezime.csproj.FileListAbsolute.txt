@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\bin\Debug\Z30.StrukturaLicnostNajdolgoPrezime.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\bin\Debug\Z30.StrukturaLicnostNajdolgoPrezime.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\bin\Debug\Z30.StrukturaLicnostNajdolgoPrezime.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\obj\Debug\Z30.StrukturaLicnostNajdolgoPrezime.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\obj\Debug\Z30.StrukturaLicnostNajdolgoPrezime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\obj\Debug\Z30.StrukturaLicnostNajdolgoPrezime.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\obj\Debug\Z30.StrukturaLicnostNajdolgoPrezime.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z30.StrukturaLicnostNajdolgoPrezime\Z30.StrukturaLicnostNajdolgoPrezime\obj\Debug\Z30.StrukturaLicnostNajdolgoPrezime.pdb

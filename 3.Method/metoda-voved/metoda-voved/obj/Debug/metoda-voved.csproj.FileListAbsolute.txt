@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\bin\Debug\metoda-voved.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\bin\Debug\metoda-voved.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\bin\Debug\metoda-voved.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\obj\Debug\metoda-voved.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\obj\Debug\metoda-voved.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\obj\Debug\metoda-voved.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\obj\Debug\metoda-voved.exe
+C:\Users\Vladimir Piki\mikrosamProekti\method\metoda-voved\metoda-voved\obj\Debug\metoda-voved.pdb

@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z16.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\bin\Debug\Z16.UnikatiKarakteri.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z17.UnikatiKarakteri\Z16.UnikatiKarakteri\obj\Debug\Z16.UnikatiKarakteri.pdb

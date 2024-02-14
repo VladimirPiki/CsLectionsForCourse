@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\bin\Debug\SendMeil.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\bin\Debug\SendMeil.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\bin\Debug\SendMeil.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\obj\Debug\SendMeil.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\obj\Debug\SendMeil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\obj\Debug\SendMeil.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\obj\Debug\SendMeil.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\SendMeil\SendMeil\obj\Debug\SendMeil.pdb

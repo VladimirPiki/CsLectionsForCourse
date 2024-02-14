@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\bin\Debug\Zadaca-TextBoxMultiline.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\bin\Debug\Zadaca-TextBoxMultiline.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\bin\Debug\Zadaca-TextBoxMultiline.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca_TextBoxMultiline.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca_TextBoxMultiline.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Zadaca-TextBoxMultiline\Zadaca-TextBoxMultiline\obj\Debug\Zadaca-TextBoxMultiline.pdb

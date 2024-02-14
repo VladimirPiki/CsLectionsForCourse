@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\bin\Debug\6.ListViewInternn.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\bin\Debug\6.ListViewInternn.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\bin\Debug\6.ListViewInternn.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\_6.ListViewInternn.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\_6.ListViewInternn.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\6.ListViewInternn\6.ListViewInternn\obj\Debug\6.ListViewInternn.pdb

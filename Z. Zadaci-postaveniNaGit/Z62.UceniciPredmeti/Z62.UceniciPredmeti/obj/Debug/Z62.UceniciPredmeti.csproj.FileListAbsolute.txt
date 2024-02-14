@@ -1,0 +1,38 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\Z62.UceniciPredmeti.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z62.UceniciPredmeti\Z62.UceniciPredmeti\obj\Debug\Z62.UceniciPredmeti.pdb

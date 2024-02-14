@@ -1,0 +1,50 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.CopyComplete
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Z75.ClientPodatoci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\ExcelDataReader.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75. ClientPodatoci.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z75.ClientServerPodatoci\Z75. ClientPodatoci\Z75. ClientPodatoci\obj\Debug\Z75.ClientPodatoci.pdb

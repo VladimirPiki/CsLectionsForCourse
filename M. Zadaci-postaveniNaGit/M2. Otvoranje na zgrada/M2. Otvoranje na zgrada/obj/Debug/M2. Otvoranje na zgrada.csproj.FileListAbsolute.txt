@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2.Otvoranje_na_zgrada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2.Otvoranje_na_zgrada.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\bin\Debug\M2.Otvoranje_na_zgrada.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2. Otvoranje na zgrada.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2.Otvoranje_na_zgrada.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M2. Otvoranje na zgrada\M2. Otvoranje na zgrada\obj\Debug\M2.Otvoranje_na_zgrada.pdb

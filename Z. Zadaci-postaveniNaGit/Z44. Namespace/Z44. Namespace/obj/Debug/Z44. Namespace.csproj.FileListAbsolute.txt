@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\bin\Debug\Z44.Namespace.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\bin\Debug\Z44.Namespace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\bin\Debug\Z44.Namespace.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\obj\Debug\Z44. Namespace.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\obj\Debug\Z44. Namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\obj\Debug\Z44. Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\obj\Debug\Z44.Namespace.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z44. Namespace\Z44. Namespace\obj\Debug\Z44.Namespace.pdb

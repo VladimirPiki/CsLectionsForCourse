@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\obj\Debug\M14.Polzav.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M14. Polzav\M14. Polzav\obj\Debug\M14.Polzav.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\bin\Debug\M14.Polzav.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\obj\Debug\M14. Polzav.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\obj\Debug\M14.Polzav.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M14. Polzav\M14. Polzav\obj\Debug\M14.Polzav.pdb

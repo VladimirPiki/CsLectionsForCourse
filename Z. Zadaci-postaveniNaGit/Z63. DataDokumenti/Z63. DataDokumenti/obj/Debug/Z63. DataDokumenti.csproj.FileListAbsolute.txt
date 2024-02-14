@@ -1,0 +1,37 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\Z63.DataDokumenti.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\Z63.DataDokumenti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\Z63.DataDokumenti.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63.DataDokumenti.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63.DataDokumenti.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63.DataDokumenti.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63.DataDokumenti.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\itextsharp.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\itextsharp.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\obj\Debug\Z63. DataDokumenti.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\Portable.System.DateTimeOnly.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Buffers.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Memory.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Buffers.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Memory.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z63. DataDokumenti\Z63. DataDokumenti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

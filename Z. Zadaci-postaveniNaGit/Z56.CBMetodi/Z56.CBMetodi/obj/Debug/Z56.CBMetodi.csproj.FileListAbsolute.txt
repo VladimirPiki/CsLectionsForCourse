@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\bin\Debug\Z56.CBMetodi.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\bin\Debug\Z56.CBMetodi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\bin\Debug\Z56.CBMetodi.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z56.CBMetodi\Z56.CBMetodi\obj\Debug\Z56.CBMetodi.pdb

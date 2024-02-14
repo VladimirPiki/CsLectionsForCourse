@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\bin\Debug\StructTextFile.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\3.StructTextFile\StructTextFile\obj\Debug\StructTextFile.pdb

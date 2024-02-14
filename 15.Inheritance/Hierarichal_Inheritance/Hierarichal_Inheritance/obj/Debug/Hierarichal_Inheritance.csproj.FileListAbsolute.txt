@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\bin\Debug\Hierarichal_Inheritance.exe.config
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\bin\Debug\Hierarichal_Inheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\bin\Debug\Hierarichal_Inheritance.pdb
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\obj\Debug\Hierarichal_Inheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\obj\Debug\Hierarichal_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\obj\Debug\Hierarichal_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\obj\Debug\Hierarichal_Inheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas1\Hierarichal_Inheritance\Hierarichal_Inheritance\obj\Debug\Hierarichal_Inheritance.pdb

@@ -1,0 +1,79 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalDialog.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z68.OcenkiOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalMeil.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\Z68.OcenkiOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EPPlus.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.IO.Packaging.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\EPPlus.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.ResolveComReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalDialog.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessDistribucijaOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessOtstapuvanjePredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekKlas.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekPredmeti.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessProsekUcenik.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalessSlabiOcenki.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.ModalMeil.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.csproj.CopyComplete
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\obj\Debug\Z68.OcenkiOneToMany.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Buffers.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Memory.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Buffers.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.IO.Packaging.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Memory.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\ExcelDataReader.dll
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\ExcelDataReader.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z76.SQLiteOneToMany\Z76. SQLiteServerOneToMany\Z68.OcenkiOneToMany\bin\Debug\ExcelDataReader.xml

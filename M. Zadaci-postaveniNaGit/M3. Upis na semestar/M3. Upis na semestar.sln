@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3. Upis na semestar", "M3. Upis na semestar\M3. Upis na semestar.csproj", "{EDF73D00-C2A3-481D-BB21-7CF3668EF67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "definirameLIstaSoNaogjaNajgBrojVoLista", "..\..\2.definirameLIstaSoNaogjaNajgBrojVoLista\definirameLIstaSoNaogjaNajgBrojVoLista\definirameLIstaSoNaogjaNajgBrojVoLista.csproj", "{A28CE6CA-B31C-438F-8616-946DA4AAAE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF73D00-C2A3-481D-BB21-7CF3668EF67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF73D00-C2A3-481D-BB21-7CF3668EF67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF73D00-C2A3-481D-BB21-7CF3668EF67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF73D00-C2A3-481D-BB21-7CF3668EF67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28CE6CA-B31C-438F-8616-946DA4AAAE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28CE6CA-B31C-438F-8616-946DA4AAAE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28CE6CA-B31C-438F-8616-946DA4AAAE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28CE6CA-B31C-438F-8616-946DA4AAAE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1593FEE-5BC6-499C-9E59-409B312C4466}
+	EndGlobalSection
+EndGlobal

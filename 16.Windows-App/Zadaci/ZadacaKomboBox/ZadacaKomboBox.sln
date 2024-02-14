@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadacaKomboBox", "ZadacaKomboBox\ZadacaKomboBox.csproj", "{1E445397-7C91-43FF-98C5-43D18627FF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E445397-7C91-43FF-98C5-43D18627FF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E445397-7C91-43FF-98C5-43D18627FF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E445397-7C91-43FF-98C5-43D18627FF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E445397-7C91-43FF-98C5-43D18627FF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55008A1B-CDA5-4630-9F29-B75EB00BD8B0}
+	EndGlobalSection
+EndGlobal

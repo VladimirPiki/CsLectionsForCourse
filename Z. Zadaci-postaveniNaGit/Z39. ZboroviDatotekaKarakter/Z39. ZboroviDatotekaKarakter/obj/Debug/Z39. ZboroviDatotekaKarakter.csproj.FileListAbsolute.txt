@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39.ZboroviDatotekaKarakter.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39.ZboroviDatotekaKarakter.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\bin\Debug\Z39.ZboroviDatotekaKarakter.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39. ZboroviDatotekaKarakter.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39.ZboroviDatotekaKarakter.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z39. ZboroviDatotekaKarakter\Z39. ZboroviDatotekaKarakter\obj\Debug\Z39.ZboroviDatotekaKarakter.pdb

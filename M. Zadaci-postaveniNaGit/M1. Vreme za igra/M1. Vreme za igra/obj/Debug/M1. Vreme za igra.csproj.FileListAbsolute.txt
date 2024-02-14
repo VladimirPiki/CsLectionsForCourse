@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\bin\Debug\M1.Vreme_za_igra.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\bin\Debug\M1.Vreme_za_igra.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\bin\Debug\M1.Vreme_za_igra.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\obj\Debug\M1. Vreme za igra.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\obj\Debug\M1. Vreme za igra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\obj\Debug\M1. Vreme za igra.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\obj\Debug\M1.Vreme_za_igra.exe
+C:\Users\Vladimir Piki\mikrosamProekti\2.zadaci\M1. Vreme za igra\M1. Vreme za igra\obj\Debug\M1.Vreme_za_igra.pdb

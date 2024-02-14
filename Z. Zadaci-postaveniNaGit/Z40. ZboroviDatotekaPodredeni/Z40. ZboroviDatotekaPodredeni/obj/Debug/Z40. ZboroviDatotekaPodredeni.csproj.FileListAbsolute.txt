@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40.ZboroviDatotekaPodredeni.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40.ZboroviDatotekaPodredeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\bin\Debug\Z40.ZboroviDatotekaPodredeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40. ZboroviDatotekaPodredeni.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40.ZboroviDatotekaPodredeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z40. ZboroviDatotekaPodredeni\Z40. ZboroviDatotekaPodredeni\obj\Debug\Z40.ZboroviDatotekaPodredeni.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\obj\Debug\Aritmetika.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\bin\Debug\Aritmetika.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\bin\Debug\Aritmetika.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\obj\Debug\Aritmetika.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Aritmetika\Aritmetika\obj\Debug\Aritmetika.pdb

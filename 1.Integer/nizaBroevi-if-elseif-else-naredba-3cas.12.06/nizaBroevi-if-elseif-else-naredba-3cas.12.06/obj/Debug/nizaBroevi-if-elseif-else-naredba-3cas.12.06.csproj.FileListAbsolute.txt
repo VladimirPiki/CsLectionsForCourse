@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\bin\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\bin\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\bin\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\obj\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\obj\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\obj\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\obj\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.exe
+C:\Users\Vladimir Piki\mikrosamProekti\nizaBroevi-if-elseif-else-naredba-3cas.12.06\nizaBroevi-if-elseif-else-naredba-3cas.12.06\obj\Debug\nizaBroevi-if-elseif-else-naredba-3cas.12.06.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\bin\Debug\Z24.ListaBroeviNaFibonaci.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\bin\Debug\Z24.ListaBroeviNaFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\bin\Debug\Z24.ListaBroeviNaFibonaci.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\obj\Debug\Z24. ListaBroeviNaFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\obj\Debug\Z24. ListaBroeviNaFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\obj\Debug\Z24. ListaBroeviNaFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\obj\Debug\Z24.ListaBroeviNaFibonaci.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z24. ListaBroeviNaFibonaci\Z24. ListaBroeviNaFibonaci\obj\Debug\Z24.ListaBroeviNaFibonaci.pdb

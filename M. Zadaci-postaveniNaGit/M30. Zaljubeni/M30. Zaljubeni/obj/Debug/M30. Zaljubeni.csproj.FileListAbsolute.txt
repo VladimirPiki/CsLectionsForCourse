@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\bin\Debug\M30.Zaljubeni.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\bin\Debug\M30.Zaljubeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\bin\Debug\M30.Zaljubeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\obj\Debug\M30. Zaljubeni.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\obj\Debug\M30. Zaljubeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\obj\Debug\M30. Zaljubeni.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\obj\Debug\M30.Zaljubeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M30. Zaljubeni\M30. Zaljubeni\obj\Debug\M30.Zaljubeni.pdb

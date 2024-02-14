@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z21. RasteckiString", "Z21. RasteckiString\Z21. RasteckiString.csproj", "{8E0EC493-E58F-4452-BC34-397F42C4DBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0EC493-E58F-4452-BC34-397F42C4DBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0EC493-E58F-4452-BC34-397F42C4DBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0EC493-E58F-4452-BC34-397F42C4DBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0EC493-E58F-4452-BC34-397F42C4DBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9363B54D-D00F-4854-BAC0-02C2BD9512AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\obj\Debug\M10.Poeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M10. Poeni\M10. Poeni\obj\Debug\M10.Poeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\bin\Debug\M10.Poeni.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\obj\Debug\M10. Poeni.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\obj\Debug\M10.Poeni.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M10. Poeni\M10. Poeni\obj\Debug\M10.Poeni.pdb

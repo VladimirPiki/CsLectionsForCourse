@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\bin\Debug\Z35.KarakterPovtoruvanjaDatoteka.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\bin\Debug\Z35.KarakterPovtoruvanjaDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\bin\Debug\Z35.KarakterPovtoruvanjaDatoteka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\obj\Debug\Z35. KarakterPovtoruvanjaDatoteka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\obj\Debug\Z35. KarakterPovtoruvanjaDatoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\obj\Debug\Z35. KarakterPovtoruvanjaDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\obj\Debug\Z35.KarakterPovtoruvanjaDatoteka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z35. KarakterPovtoruvanjaDatoteka\Z35. KarakterPovtoruvanjaDatoteka\obj\Debug\Z35.KarakterPovtoruvanjaDatoteka.pdb

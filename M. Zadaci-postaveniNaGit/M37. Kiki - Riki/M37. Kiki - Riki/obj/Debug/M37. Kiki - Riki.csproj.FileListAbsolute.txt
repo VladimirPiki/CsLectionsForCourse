@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\bin\Debug\M37.Kiki___Riki.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\bin\Debug\M37.Kiki___Riki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\bin\Debug\M37.Kiki___Riki.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\obj\Debug\M37. Kiki - Riki.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\obj\Debug\M37. Kiki - Riki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\obj\Debug\M37. Kiki - Riki.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\obj\Debug\M37.Kiki___Riki.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M37. Kiki - Riki\M37. Kiki - Riki\obj\Debug\M37.Kiki___Riki.pdb

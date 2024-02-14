@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NajvozrasnaLicnost-STRUCT", "NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT.csproj", "{42691CD6-FCA3-4971-8B3F-1C69E7EA5358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42691CD6-FCA3-4971-8B3F-1C69E7EA5358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42691CD6-FCA3-4971-8B3F-1C69E7EA5358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42691CD6-FCA3-4971-8B3F-1C69E7EA5358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42691CD6-FCA3-4971-8B3F-1C69E7EA5358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3A30D6-320E-484C-91D4-10F761C1F2EF}
+	EndGlobalSection
+EndGlobal

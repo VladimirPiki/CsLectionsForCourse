@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\bin\Debug\M36.Makedonsko_oro.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\bin\Debug\M36.Makedonsko_oro.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\bin\Debug\M36.Makedonsko_oro.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\obj\Debug\M36. Makedonsko oro.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\obj\Debug\M36. Makedonsko oro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\obj\Debug\M36. Makedonsko oro.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\obj\Debug\M36.Makedonsko_oro.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M36. Makedonsko oro\M36. Makedonsko oro\obj\Debug\M36.Makedonsko_oro.pdb

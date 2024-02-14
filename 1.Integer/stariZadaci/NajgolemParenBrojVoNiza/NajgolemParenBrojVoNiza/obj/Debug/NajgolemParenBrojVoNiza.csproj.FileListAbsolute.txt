@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.exe
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.exe
+C:\Users\Vladimir Piki\mikrosamProekti\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.exe
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\bin\Debug\NajgolemParenBrojVoNiza.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.exe
+C:\Users\Vladimir Piki\mikrosamProekti\1.zadaci\NajgolemParenBrojVoNiza\NajgolemParenBrojVoNiza\obj\Debug\NajgolemParenBrojVoNiza.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable\Hashtable\obj\Debug\Hashtable.pdb

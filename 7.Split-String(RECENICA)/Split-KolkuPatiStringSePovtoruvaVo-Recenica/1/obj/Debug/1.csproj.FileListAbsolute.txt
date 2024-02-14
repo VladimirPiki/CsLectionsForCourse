@@ -1,0 +1,13 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\bin\Debug\1.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\bin\Debug\1.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\bin\Debug\1.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\obj\Debug\1.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\1\1\obj\Debug\1.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\7.Split-String(RECENICA)\Split-KolkuPatiStringSePovtoruvaVo-Recenica\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\7.Split-String(RECENICA)\Split-KolkuPatiStringSePovtoruvaVo-Recenica\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\7.Split-String(RECENICA)\Split-KolkuPatiStringSePovtoruvaVo-Recenica\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\7.Split-String(RECENICA)\Split-KolkuPatiStringSePovtoruvaVo-Recenica\1\obj\Debug\1.exe
+C:\Users\Vladimir Piki\mikrosamProekti\7.Split-String(RECENICA)\Split-KolkuPatiStringSePovtoruvaVo-Recenica\1\obj\Debug\1.pdb

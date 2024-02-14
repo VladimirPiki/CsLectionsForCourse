@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\bin\Debug\M28.Cokoladna_kocka.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\bin\Debug\M28.Cokoladna_kocka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\bin\Debug\M28.Cokoladna_kocka.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\obj\Debug\M28. Cokoladna kocka.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\obj\Debug\M28. Cokoladna kocka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\obj\Debug\M28. Cokoladna kocka.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\obj\Debug\M28.Cokoladna_kocka.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M28. Cokoladna kocka\M28. Cokoladna kocka\obj\Debug\M28.Cokoladna_kocka.pdb

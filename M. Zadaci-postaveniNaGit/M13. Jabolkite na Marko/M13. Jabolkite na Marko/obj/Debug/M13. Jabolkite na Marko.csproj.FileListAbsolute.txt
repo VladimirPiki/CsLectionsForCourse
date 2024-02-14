@@ -1,0 +1,16 @@
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.exe.config
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.pdb
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.AssemblyReference.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.CoreCompileInputs.cache
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13.Jabolkite_na_Marko.exe
+C:\Users\MARIJA\Dropbox\PC\Desktop\Vladimir\m\3\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13.Jabolkite_na_Marko.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\bin\Debug\M13.Jabolkite_na_Marko.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13. Jabolkite na Marko.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13.Jabolkite_na_Marko.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M13. Jabolkite na Marko\M13. Jabolkite na Marko\obj\Debug\M13.Jabolkite_na_Marko.pdb

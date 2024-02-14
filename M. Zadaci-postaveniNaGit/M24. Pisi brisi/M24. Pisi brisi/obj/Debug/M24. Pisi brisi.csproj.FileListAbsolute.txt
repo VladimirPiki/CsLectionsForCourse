@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\bin\Debug\M24.Pisi_brisi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\bin\Debug\M24.Pisi_brisi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\bin\Debug\M24.Pisi_brisi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\obj\Debug\M24. Pisi brisi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\obj\Debug\M24. Pisi brisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\obj\Debug\M24. Pisi brisi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\obj\Debug\M24.Pisi_brisi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M24. Pisi brisi\M24. Pisi brisi\obj\Debug\M24.Pisi_brisi.pdb

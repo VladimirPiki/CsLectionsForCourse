@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\obj\Debug\M11.Malo_loto.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Mendo\M11. Malo loto\M11. Malo loto\obj\Debug\M11.Malo_loto.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\bin\Debug\M11.Malo_loto.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\obj\Debug\M11. Malo loto.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\obj\Debug\M11.Malo_loto.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M11. Malo loto\M11. Malo loto\obj\Debug\M11.Malo_loto.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\bin\Debug\Z26.MetodaUnikatiKarakteri.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\bin\Debug\Z26.MetodaUnikatiKarakteri.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\bin\Debug\Z26.MetodaUnikatiKarakteri.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\obj\Debug\Z26. MetodaUnikatiKarakteri.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\obj\Debug\Z26. MetodaUnikatiKarakteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\obj\Debug\Z26. MetodaUnikatiKarakteri.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\obj\Debug\Z26.MetodaUnikatiKarakteri.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z26. MetodaUnikatiKarakteri\Z26. MetodaUnikatiKarakteri\obj\Debug\Z26.MetodaUnikatiKarakteri.pdb

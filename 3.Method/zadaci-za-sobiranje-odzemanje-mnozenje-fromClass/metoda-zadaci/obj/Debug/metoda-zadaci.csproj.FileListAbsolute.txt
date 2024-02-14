@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\bin\Debug\metoda-zadaci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\bin\Debug\metoda-zadaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\bin\Debug\metoda-zadaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\obj\Debug\metoda-zadaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci\metoda-zadaci\obj\Debug\metoda-zadaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\bin\Debug\metoda-zadaci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\bin\Debug\metoda-zadaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\bin\Debug\metoda-zadaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\obj\Debug\metoda-zadaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\obj\Debug\metoda-zadaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\metoda-zadaci-fromClass\metoda-zadaci\obj\Debug\metoda-zadaci.pdb

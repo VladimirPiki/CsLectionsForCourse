@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarichal_Inheritance", "Hierarichal_Inheritance\Hierarichal_Inheritance.csproj", "{5447625A-E531-458C-86AE-9A1A5531AE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5447625A-E531-458C-86AE-9A1A5531AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5447625A-E531-458C-86AE-9A1A5531AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5447625A-E531-458C-86AE-9A1A5531AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5447625A-E531-458C-86AE-9A1A5531AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E72991-4863-4F92-AB7C-6B813100C4CE}
+	EndGlobalSection
+EndGlobal

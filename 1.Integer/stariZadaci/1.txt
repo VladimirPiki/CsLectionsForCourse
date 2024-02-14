@@ -1,0 +1,14 @@
+Z1.NajgoleBrojNizaDesetElementi
+Z2.DvaNajgolemiBroeivNizaDesetElementi
+Z3.Prvite8BroeviOdNizataNaFibonaci
+Z4.BroeviNaFibonaciZbirPomalOd120
+Z5.ZbirNaParniINeparniBroeviVoPrvite10BroeviNaFibonaci
+Z6.TriNajgolemiBroeviOdNiza
+Z7.NajgolemParenBrojVoNiza
+
+
+
+
+
+
+

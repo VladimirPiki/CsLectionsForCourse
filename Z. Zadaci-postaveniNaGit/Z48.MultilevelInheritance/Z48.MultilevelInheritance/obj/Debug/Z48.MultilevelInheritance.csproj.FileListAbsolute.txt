@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.exe.config
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.pdb
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.exe
+C:\Users\User\Desktop\Vladimir\Cas\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\bin\Debug\Z48.MultilevelInheritance.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z48.MultilevelInheritance\Z48.MultilevelInheritance\obj\Debug\Z48.MultilevelInheritance.pdb

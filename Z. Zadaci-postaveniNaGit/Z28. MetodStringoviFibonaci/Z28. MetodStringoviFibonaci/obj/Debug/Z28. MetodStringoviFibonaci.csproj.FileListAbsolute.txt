@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\bin\Debug\Z28.MetodStringoviFibonaci.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\bin\Debug\Z28.MetodStringoviFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\bin\Debug\Z28.MetodStringoviFibonaci.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\obj\Debug\Z28. MetodStringoviFibonaci.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\obj\Debug\Z28. MetodStringoviFibonaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\obj\Debug\Z28. MetodStringoviFibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\obj\Debug\Z28.MetodStringoviFibonaci.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Z28. MetodStringoviFibonaci\Z28. MetodStringoviFibonaci\obj\Debug\Z28.MetodStringoviFibonaci.pdb

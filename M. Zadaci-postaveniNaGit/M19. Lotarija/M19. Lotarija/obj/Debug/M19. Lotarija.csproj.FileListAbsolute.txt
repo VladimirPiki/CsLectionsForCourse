@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\bin\Debug\M19.Lotarija.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\bin\Debug\M19.Lotarija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\bin\Debug\M19.Lotarija.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\obj\Debug\M19. Lotarija.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\obj\Debug\M19. Lotarija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\obj\Debug\M19. Lotarija.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\obj\Debug\M19.Lotarija.exe
+C:\Users\Vladimir Piki\mikrosamProekti\M. Zadaci-postaveniNaGit\M19. Lotarija\M19. Lotarija\obj\Debug\M19.Lotarija.pdb

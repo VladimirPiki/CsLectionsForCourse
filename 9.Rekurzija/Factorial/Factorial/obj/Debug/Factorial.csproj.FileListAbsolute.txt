@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Factorial\Factorial\obj\Debug\Factorial.pdb

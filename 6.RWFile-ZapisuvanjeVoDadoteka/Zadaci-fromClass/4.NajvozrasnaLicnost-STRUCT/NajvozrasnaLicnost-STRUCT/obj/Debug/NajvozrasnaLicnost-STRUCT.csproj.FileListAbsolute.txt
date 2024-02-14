@@ -1,0 +1,16 @@
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.zapisuvanje vo dadoteka\Zadaci-fromClass\NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\bin\Debug\NajvozrasnaLicnost-STRUCT.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.exe
+C:\Users\Vladimir Piki\mikrosamProekti\6.RWFile-ZapisuvanjeVoDadoteka\Zadaci-fromClass\4.NajvozrasnaLicnost-STRUCT\NajvozrasnaLicnost-STRUCT\obj\Debug\NajvozrasnaLicnost-STRUCT.pdb

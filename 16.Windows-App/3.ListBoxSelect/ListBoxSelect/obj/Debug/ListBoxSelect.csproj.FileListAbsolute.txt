@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\bin\Debug\ListBoxSelect.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\bin\Debug\ListBoxSelect.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\bin\Debug\ListBoxSelect.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.Form1.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.Properties.Resources.resources
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\ListBoxSelect\ListBoxSelect\obj\Debug\ListBoxSelect.pdb

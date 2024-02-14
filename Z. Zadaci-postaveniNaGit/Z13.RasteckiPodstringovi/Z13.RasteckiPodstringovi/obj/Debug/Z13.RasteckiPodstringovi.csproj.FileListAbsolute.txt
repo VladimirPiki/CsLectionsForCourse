@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\bin\Debug\Z13.RasteckiPodstringovi.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\bin\Debug\Z13.RasteckiPodstringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\bin\Debug\Z13.RasteckiPodstringovi.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\obj\Debug\Z13.RasteckiPodstringovi.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\obj\Debug\Z13.RasteckiPodstringovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\obj\Debug\Z13.RasteckiPodstringovi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\obj\Debug\Z13.RasteckiPodstringovi.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z13.RasteckiPodstringovi\Z13.RasteckiPodstringovi\obj\Debug\Z13.RasteckiPodstringovi.pdb

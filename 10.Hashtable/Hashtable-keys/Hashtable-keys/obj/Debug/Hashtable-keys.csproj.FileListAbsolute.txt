@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\bin\Debug\Hashtable-keys.exe.config
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\bin\Debug\Hashtable-keys.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\bin\Debug\Hashtable-keys.pdb
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\obj\Debug\Hashtable-keys.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\obj\Debug\Hashtable-keys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\obj\Debug\Hashtable-keys.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\obj\Debug\Hashtable-keys.exe
+C:\Users\Vladimir Piki\Desktop\mikrosamCas\Hashtable-keys\Hashtable-keys\obj\Debug\Hashtable-keys.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\obj\Debug\3.primer-KoiSeRasteckiNizizVoListata.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\obj\Debug\3.primer-KoiSeRasteckiNizizVoListata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\obj\Debug\3.primer-KoiSeRasteckiNizizVoListata.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\bin\Debug\3.primer-KoiSeRasteckiNizizVoListata.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\bin\Debug\3.primer-KoiSeRasteckiNizizVoListata.exe
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\bin\Debug\3.primer-KoiSeRasteckiNizizVoListata.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\obj\Debug\3.primer-KoiSeRasteckiNizizVoListata.exe
+C:\Users\Vladimir Piki\mikrosamProekti\3.primer-KoiSeRasteckiNizizVoListata\3.primer-KoiSeRasteckiNizizVoListata\obj\Debug\3.primer-KoiSeRasteckiNizizVoListata.pdb

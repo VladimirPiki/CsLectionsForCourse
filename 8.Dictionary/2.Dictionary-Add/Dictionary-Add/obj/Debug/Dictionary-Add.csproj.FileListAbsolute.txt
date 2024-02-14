@@ -1,0 +1,8 @@
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\bin\Debug\Dictionary-Add.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\bin\Debug\Dictionary-Add.exe
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\bin\Debug\Dictionary-Add.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\obj\Debug\Dictionary-Add.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\obj\Debug\Dictionary-Add.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\obj\Debug\Dictionary-Add.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\obj\Debug\Dictionary-Add.exe
+C:\Users\Vladimir Piki\mikrosamProekti\8.Dictionary\2.Dictionary-Add\Dictionary-Add\obj\Debug\Dictionary-Add.pdb

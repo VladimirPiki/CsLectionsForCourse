@@ -1,0 +1,11 @@
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\bin\Debug\Z60.RabotaSoDatotekiWindowsForms.exe.config
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\bin\Debug\Z60.RabotaSoDatotekiWindowsForms.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\bin\Debug\Z60.RabotaSoDatotekiWindowsForms.pdb
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60. RabotaSoDatotekiWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60. RabotaSoDatotekiWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60.RabotaSoDatotekiWindowsForms.Form1.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60.RabotaSoDatotekiWindowsForms.Properties.Resources.resources
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60. RabotaSoDatotekiWindowsForms.csproj.GenerateResource.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60. RabotaSoDatotekiWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60.RabotaSoDatotekiWindowsForms.exe
+C:\Users\Vladimir Piki\mikrosamProekti\Z. Zadaci-postaveniNaGit\Z60. RabotaSoDatotekiWindowsForms\Z60. RabotaSoDatotekiWindowsForms\obj\Debug\Z60.RabotaSoDatotekiWindowsForms.pdb
